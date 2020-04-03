@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="HIC.wmf"
+   id="svg708"
+   height="110.34889mm"
+   width="108.09111mm"
+   version="1.0">
+  <metadata
+     id="metadata712">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview710"
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs702">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="WMFhbasepattern" />
+  </defs>
+  <path
+     id="path704"
+     d="  M 22.333333,207.93333   L 25.533333,170.6   L 37.266667,134.33333   L 56.466667,101.26667   L 82.066667,73.533333   L 113,51.133333   L 147.13333,35.133333   L 184.46667,27.666667   L 222.86667,27.666667   L 260.2,35.133333   L 294.33333,51.133333   L 325.26667,73.533333   L 350.86667,101.26667   L 370.06667,134.33333   L 381.8,170.6   L 386.06667,207.93333   L 381.8,246.33333   L 370.06667,282.6   L 350.86667,315.66667   L 325.26667,343.4   L 294.33333,365.8   L 260.2,381.8   L 222.86667,389.26667   L 184.46667,389.26667   L 147.13333,381.8   L 113,365.8   L 82.066667,343.4   L 56.466667,315.66667   L 37.266667,282.6   L 25.533333,246.33333  z "
+     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path706"
+     d="  M 51.133333,394.6   L 374.33333,22.333333  "
+     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+</svg>

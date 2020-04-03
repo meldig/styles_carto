@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="HW8.wmf"
+   id="svg2363"
+   height="180.90445mm"
+   width="182.03333mm"
+   version="1.0">
+  <metadata
+     id="metadata2367">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview2365"
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs2357">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="WMFhbasepattern" />
+  </defs>
+  <path
+     id="path2359"
+     d="  M 663.4,343.4   L 657,277.26667   L 636.73333,213.26667   L 603.66667,154.6   L 559.93333,105.53333   L 505.53333,65   L 444.73333,37.266667   L 378.6,23.4   L 312.46667,22.333333   L 246.33333,36.2   L 184.46667,62.866667   L 130.06667,102.33333   L 85.266667,151.4   L 51.133333,209   L 29.8,273   L 22.333333,340.2   L 29.8,406.33333   L 50.066667,470.33333   L 83.133333,529   L 126.86667,578.06667   L 181.26667,618.6   L 242.06667,646.33333   L 308.2,660.2   L 374.33333,661.26667   L 440.46667,647.4   L 502.33333,620.73333   L 556.73333,581.26667   L 601.53333,532.2   L 635.66667,474.6   L 657,410.6  z "
+     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path2361"
+     d="  M 665.53333,343.4   L 24.466667,343.4  "
+     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+</svg>
