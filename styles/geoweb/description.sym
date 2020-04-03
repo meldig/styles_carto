@@ -1,0 +1,1325 @@
+;Symbol File Version 2.1.0.0
+
+;Famille:TOPOGRAPHIE
+
+;Début des marqueurs
+#POINT DE NIVEAU
+Marker 338,HR1.wmf, 50.000000%, 49.998678%,##HR1/TOPOGRAPHIE
+#REPERE B.E.T
+Marker 339,HR2.wmf, 49.998477%, 49.998678%,##HR2/TOPOGRAPHIE
+#REPERE I.G.N
+Marker 340,HR3.wmf, 49.998477%, 49.998678%,##HR3/TOPOGRAPHIE
+#POINT DE POLYGONATION
+Marker 341,HR4.wmf, 50.000000%, 49.998898%,##HR4/TOPOGRAPHIE
+
+;Famille:TELECOMMUNICATION
+
+;Début des marqueurs
+#ARMOIRE
+Marker 359,HT2.wmf, 50.000000%, 49.997808%,##HT2/TELECOMMUNICATION
+#TRAPPE A VANTAUX
+Marker 360,HT3.wmf, 50.000000%, 49.998678%,##HT3/TELECOMMUNICATION
+#AFFLEUREMENT
+Marker 361,HT4.wmf, 50.000000%, 49.998678%,##HT4/TELECOMMUNICATION
+#BORNE DISTRIBUTION
+Marker 362,HT5.wmf, 49.998109%, 49.998111%,##HT5/TELECOMMUNICATION
+#GRILLE D'AERATION
+Marker 363,HT6.wmf, 50.000000%, 49.998678%,##HT6/TELECOMMUNICATION
+#REPERE
+Marker 364,HT7.wmf, 50.000000%, 49.998678%,##HT7/TELECOMMUNICATION
+#POTEAU
+Marker 365,HT8.wmf, 50.000000%, 49.998678%,##HT8/TELECOMMUNICATION
+#POTEAU
+Marker 366,HT9.wmf, 49.995289%, 50.000000%,##HT9/TELECOMMUNICATION
+#CABINE SIMPLE
+Marker 367,HTA.wmf, 50.000000%, 50.000000%,##HTA/TELECOMMUNICATION
+#CABINE DOUBLE
+Marker 368,HTB.wmf, 50.000000%, 49.997814%,##HTB/TELECOMMUNICATION
+#CABINE TRIPLE
+Marker 369,HTC.wmf, 49.993248%, 50.000000%,##HTC/TELECOMMUNICATION
+#CABINE ADAPTEE
+Marker 370,HTD.wmf, 49.993641%, 49.993912%,##HTD/TELECOMMUNICATION
+#CABINE DOUBLE
+Marker 371,HTE.wmf, 49.990152%, 50.000000%,##HTE/TELECOMMUNICATION
+#CABINE TRIPLE
+Marker 372,HTF.wmf, 50.000000%, 49.992534%,##HTF/TELECOMMUNICATION
+#CABINE RECTANGULAIRE
+Marker 373,HTG.wmf, 50.000000%, 49.998678%,##HTG/TELECOMMUNICATION
+#BORNE TELEPHONIQUE
+Marker 374,HTH.wmf, 49.996208%, 49.996724%,##HTH/TELECOMMUNICATION
+
+;Famille:ELECTRICITE
+
+;Début des marqueurs
+#REGARD TAMPON
+Marker 283,HE1.wmf, 50.000000%, 50.000000%,##HE1/ELECTRICITE
+#ARMOIRE
+Marker 284,HE2.wmf, 50.000000%, 49.997808%,##HE2/ELECTRICITE
+#TRAPPE A VANTAUX
+Marker 285,HE3.wmf, 49.998681%, 49.998678%,##HE3/ELECTRICITE
+#AFFLEUREMENT
+Marker 286,HE4.wmf, 50.000000%, 49.998678%,##HE4/ELECTRICITE
+#BOITIER
+Marker 287,HE5.wmf, 50.000000%, 49.998678%,##HE5/ELECTRICITE
+#BOUCHE A CLE
+Marker 288,HE6.wmf, 50.000000%, 49.998662%,##HE6/ELECTRICITE
+#PYLONE
+Marker 289,HE7.wmf, 50.000000%, 49.998678%,##HE7/ELECTRICITE
+#REPERE
+Marker 290,HE8.wmf, 50.000000%, 49.998678%,##HE8/ELECTRICITE
+#POTEAU
+Marker 291,HE9.wmf, 50.000000%, 50.000000%,##HE9/ELECTRICITE
+#TRANSFORMATEUR
+Marker 292,HEA.wmf, 50.000000%, 49.998678%,##HEA/ELECTRICITE
+#REGARD TAMPON
+Marker 293,HEQ.wmf, 50.000000%, 49.998678%,##HEQ/ELECTRICITE
+
+;Famille:ASSAINISSEMENT
+
+;Début des marqueurs
+#REGARD TAMPON
+Marker 263,HA1.wmf, 50.000000%, 50.000000%,##HA1/ASSAINISSEMENT
+#GRILLE AVALOIR
+Marker 264,HA2.wmf, 50.000000%, 49.998678%,##HA2/ASSAINISSEMENT
+#BORDURE AVALOIR
+Marker 265,HA3.wmf, 49.998681%, 49.998678%,##HA3/ASSAINISSEMENT
+#AFFLEUREMENT
+Marker 266,HA4.wmf, 50.000000%, 49.998678%,##HA4/ASSAINISSEMENT
+#CUNETTE
+Marker 267,HA5.wmf, 50.000000%, 49.998678%,##HA5/ASSAINISSEMENT
+#GRILLE
+Marker 268,HA6.wmf, 50.000000%, 49.998678%,##HA6/ASSAINISSEMENT
+#CADRE AVALOIR
+Marker 269,HA9.wmf, 50.000000%, 49.998678%,##HA9/ASSAINISSEMENT
+#REGARD TAMPON
+Marker 270,HAQ.wmf, 50.000000%, 49.998678%,##HAQ/ASSAINISSEMENT
+
+;Famille:EAU
+
+;Début des marqueurs
+#TRAPPE A VANTEAUX
+Marker 463,HW0.wmf, 50.000000%, 49.998678%,##HW0/EAU
+Marker 464,HW1.wmf, 50.000000%, 50.000000%,##HW1/EAU
+#BOUCHE D'ARROSAGE
+Marker 465,HW2.wmf, 50.000000%, 49.998678%,##HW2/EAU
+#BOUCHE DE LAVAGE
+Marker 466,HW3.wmf, 50.000000%, 49.998678%,##HW3/EAU
+#AFFLEUREMENT
+Marker 467,HW4.wmf, 50.000000%, 49.998678%,##HW4/EAU
+#FONTAINE
+Marker 468,HW5.wmf, 50.000000%, 49.998678%,##HW5/EAU
+#BOUCHE INCENDIE
+Marker 469,HW6.wmf, 50.000000%, 49.998678%,##HW6/EAU
+#BORNE FONTAINE
+Marker 470,HW7.wmf, 50.000000%, 50.000000%,##HW7/EAU
+#BOUCHE A CLE
+Marker 471,HW8.wmf, 49.997818%, 49.997804%,##HW8/EAU
+#POTEAU INCENDIE
+Marker 472,HW9.wmf, 50.000000%, 49.997814%,##HW9/EAU
+#REPERE
+Marker 427,HWA.wmf, 50.000000%, 49.998678%,##HWA/EAU
+#BOUCHE D'ARROSAGE (PONCTUEL)
+Marker 502,HWB.wmf, 50.000000%, 50.000000%,##HWB/EAU
+#BOUCHE DE LAVAGE (PONCTUEL)
+Marker 429,HWC.wmf, 50.000000%, 50.000000%,##HWC/EAU
+#BOUCHE D'INCENDIE (PONCTUEL)
+Marker 430,HWD.wmf, 50.000000%, 50.000000%,##HWD/EAU
+#FONTAINE
+Marker 431,HWE.wmf, 50.000000%, 50.000000%,##HWE/EAU
+#REGARD TAMPON
+Marker 432,HWQ.wmf, 50.000000%, 49.998678%,##HWQ/EAU
+
+;Famille:METRO
+
+;Début des marqueurs
+#REGARD TAMPON
+Marker 321,HK1.wmf, 50.000000%, 50.000000%,##HK1/METRO
+#ASCENSEUR
+Marker 322,HK2.wmf, 50.000000%, 49.998678%,##HK2/METRO
+#ESCALIER
+Marker 323,HK3.wmf, 50.000000%, 49.998678%,##HK3/METRO
+#PILIER DE VIADUC
+Marker 324,HK4.wmf, 50.000000%, 49.998678%,##HK4/METRO
+#BOUCHE D'AERATION
+Marker 325,HK5.wmf, 50.000000%, 49.998678%,##HK5/METRO
+#PILIER DE VIADUC
+Marker 326,HKA.wmf, 50.000000%, 49.996489%,##HKA/METRO
+#REGARD TAMPON
+Marker 327,HKQ.wmf, 50.000000%, 49.998678%,##HKQ/METRO
+
+;Famille:RESEAU_INCONNU
+
+;Début des marqueurs
+#RECTANGLE
+Marker 462,HI0.wmf, 50.000000%, 49.998678%,##HI0/RESEAU_INCONNU
+#REGARD TAMPON
+Marker 304,HI1.wmf, 50.000000%, 50.000000%,##HI1/RESEAU_INCONNU
+#ARMOIRE
+Marker 305,HI2.wmf, 50.000000%, 49.997808%,##HI2/RESEAU_INCONNU
+#TRAPPE A VANTAUX
+Marker 306,HI3.wmf, 50.000000%, 49.998678%,##HI3/RESEAU_INCONNU
+#AFFLEUREMENT
+Marker 307,HI4.wmf, 50.000000%, 49.998678%,##HI4/RESEAU_INCONNU
+#CONDUITE
+Marker 308,HI5.wmf, 50.000000%, 49.998678%,##HI5/RESEAU_INCONNU
+#GRILLE
+Marker 309,HI6.wmf, 50.000000%, 49.998678%,##HI6/RESEAU_INCONNU
+#BOUCHE A CLE
+Marker 310,HI7.wmf, 50.000000%, 49.998678%,##HI7/RESEAU_INCONNU
+#BORNE
+Marker 311,HI9.wmf, 50.000000%, 50.000000%,##HI9/RESEAU_INCONNU
+#BOUCHE A CLE
+Marker 312,HIA.wmf, 50.000000%, 49.998662%,##HIA/RESEAU_INCONNU
+#POTEAU
+Marker 313,HIC.wmf, 50.000000%, 50.000000%,##HIC/RESEAU_INCONNU
+#POTELET
+Marker 314,HID.wmf, 49.997808%, 49.997808%,##HID/RESEAU_INCONNU
+#REPERE
+Marker 315,HIE.wmf, 0.000000%, 0.000000%,##HIE/RESEAU_INCONNU
+#POTELET
+Marker 316,HIF.wmf, 50.000000%, 49.998678%,##HIF/RESEAU_INCONNU
+#POTEAU
+Marker 317,HIG.wmf, 50.000000%, 49.998678%,##HIG/RESEAU_INCONNU
+#PLOT RETRACTABLE
+Marker 318,HIP.wmf, 49.997808%, 49.997808%,##HIP/RESEAU_INCONNU
+#REGARD TAMPON
+Marker 319,HIQ.wmf, 50.000000%, 49.998678%,##HIQ/RESEAU_INCONNU
+#PLOT RETRACTABLE
+Marker 320,HIR.wmf, 50.000000%, 49.998678%,##HIR/RESEAU_INCONNU
+
+;Famille:BRGM
+
+;Début des marqueurs
+#APPAREIL DE MESURE
+Marker 276,HB1.wmf, 50.000000%, 49.998678%,##HB1/BRGM
+#PIEZOMETRE
+Marker 272,HB2.wmf, 50.000000%, 49.998678%,##HB2/BRGM
+
+;Famille:Défaut
+
+;Début des marqueurs
+Marker 142,Basias.wmf, 50.000000%, 50.000000%,##Basias
+Marker 223,BOessais1.wmf, 49.998221%, 49.797571%,##CARTO_BO_bordure
+Marker 224,CERLE.wmf, 0.000000%, 0.000000%,##CARTO_cloture
+Marker 222,sig_symbole~croix_grillage_0.wmf, 50.000000%, 50.000000%,##CARTO_croix_haie
+Marker 2,default.wmf, 50.000000%, 50.000000%,##DEFAULT
+Marker 141,EV_PAT_arbre_existant.wmf, 50.000000%, 49.995130%,##EV-PAT-Arbre_existant
+Marker 134,EV_PAT_bac_hors_sol.emf, 50.000000%, 50.000000%,##EV-PAT-bac_hors_sol
+Marker 135,EV_PAT_bulbe.emf, 49.995000%, 49.995000%,##EV-PAT-bulbe
+Marker 136,EV_PAT_decoration.emf, 49.995000%, 49.995000%,##EV-PAT-decoration
+Marker 137,EV_PAT_massif_pleine_terre.emf, 50.000000%, 50.000000%,##EV-PAT-massif_pleine_terre
+Marker 139,EV_PAT_paririe_fleurie.emf, 50.000000%, 50.000000%,##EV-PAT-prairie_fleurie
+Marker 140,EV_PAT_suspension.emf, 49.995000%, 49.995000%,##EV-PAT-suspension
+Marker 262,svg\HA0.wmf, 50.000000%, 49.998678%,##HA0
+#REGARD TAMPON
+Marker 442,HSQ.wmf, 50.000000%, 49.998678%,##HSQ
+Marker 162,ICPE.wmf, 50.000000%, 50.000000%,##ICPE
+Marker 3,carto~croix_0.wmf, 49.990229%, 50.000000%,##SIG-CARTO-cimetiere-croix0
+Marker 7,carto~tombe_israelite_0.wmf, 50.000000%, 49.974581%,##SIG-CARTO-cimetiere-israelite0
+Marker 4,carto~croix_etat.wmf, 49.984534%, 50.000000%,##SIG-CARTO-croix_etat
+Marker 5,carto~foret_rond_t_0.wmf, 50.000000%, 50.000000%,##SIG-CARTO-foret-rond_t0
+Marker 8,sig_symbole~borne.wmf, 49.993363%, 50.000000%,##SIG-PARCEL-repere-borne
+Marker 9,sig_symbole~boulon.wmf, 4.477612%, 50.000000%,##SIG-PARCEL-repere-boulon
+Marker 10,sig_symbole~croix.wmf, 49.992891%, 50.000000%,##SIG-PARCEL-repere-croix
+Marker 11,sig_symbole~piquet.wmf, 0.000000%, 49.993860%,##SIG-PARCEL-repere-piquet
+Marker 13,sig_symbole~arbre_bis.wmf, 50.000000%, 50.000000%,##SIG-TOPO-arbre
+Marker 14,sig_symbole~arrosage.wmf, 49.995823%, 0.000000%,##SIG-TOPO-arrosage
+Marker 15,sig_symbole~avaloir.wmf, 50.000000%, 0.000000%,##SIG-TOPO-avaloir
+Marker 19,sig_symbole~barre_verticale_1_0.wmf, 50.000000%, 49.992147%,##SIG-TOPO-barre_verticale-milieu0
+Marker 131,sig_symbole~barriere_debut_fin_0.wmf, 49.992167%, 50.000000%,##SIG-TOPO-barriere-extremite
+Marker 20,sig_symbole~borne_escamot.wmf, 50.000000%, 50.000000%,##SIG-TOPO-borne_escamot
+Marker 21,sig_symbole~borne_lumineuse_2.wmf, 50.000000%, 50.000000%,##SIG-TOPO-borne_lumineuse
+Marker 22,sig_symbole~borne_reseau_0.wmf, 50.000000%, 50.000000%,##SIG-TOPO-borne_reseau
+Marker 23,sig_symbole~bouche_a_clef.wmf, 50.000000%, 49.993074%,##SIG-TOPO-bouche_a_clef
+Marker 24,sig_symbole~buttoir.wmf, 99.368305%, 90.497299%,##SIG-TOPO-butoir
+Marker 25,sig_symbole~buttoir_0.wmf, 9.489151%, 98.722878%,##SIG-TOPO-butoir-0
+Marker 66,sig_symbole~tel_typ_1.wmf, 50.000000%, 11.097753%,##SIG-TOPO-cabine_tel-typ1
+Marker 67,sig_symbole~tel_typ_2.wmf, 0.000000%, 0.000000%,##SIG-TOPO-cabine_tel-typ2
+Marker 68,sig_symbole~tel_typ_3.wmf, 0.000000%, 0.000000%,##SIG-TOPO-cabine_tel-typ3
+Marker 69,sig_symbole~tel_typ_4.wmf, 49.995811%, 50.000000%,##SIG-TOPO-cabine_tel-typ4
+Marker 70,sig_symbole~tel_typ_4_0.wmf, 50.000000%, 49.995811%,##SIG-TOPO-cabine_tel-typ4_0
+Marker 71,sig_symbole~tel_typ_5.wmf, 0.000000%, 18.666667%,##SIG-TOPO-cabine_tel-typ5
+Marker 29,sig_symbole~colonne_morris_0.wmf, 50.000000%, 50.000000%,##SIG-TOPO-colonne_morris
+Marker 31,sig_symbole~douille_de_mat_0.wmf, 49.993074%, 0.000000%,##SIG-TOPO-douille_de_mat
+Marker 33,sig_symbole~ecoulement_0.wmf, 49.953140%, 0.000000%,##SIG-TOPO-ecoulement-0
+Marker 34,sig_symbole~entree_0.wmf, 50.000000%, 18.152939%,##SIG-TOPO-entree
+Marker 37,sig_symbole~entree_i_droite_0.wmf, 0.000000%, 0.000000%,##SIG-TOPO-entree-barre_droite
+Marker 38,sig_symbole~entree_i_gauche_0.wmf, 100.000000%, 0.000000%,##SIG-TOPO-entree-barre_gauche
+Marker 35,sig_symbole~entree_fleche_f_0.wmf, 50.046860%, 22.218347%,##SIG-TOPO-entree-fleche_f
+Marker 36,sig_symbole~entree_fleche_g_0.wmf, 50.000000%, 22.226087%,##SIG-TOPO-entree-fleche_g
+Marker 43,sig_symbole~hydrant.wmf, 50.000000%, 49.993074%,##SIG-TOPO-hydrant
+Marker 44,sig_symbole~lampadaire.wmf, 50.000000%, 50.000000%,##SIG-TOPO-lampadaire
+Marker 45,sig_symbole~mat_jalonnement.wmf, 50.004360%, 73.846154%,##SIG-TOPO-mat_jalonnement
+Marker 54,sig_symbole~plot_ligne_autre_0.wmf, 50.000000%, 50.000000%,##SIG-TOPO-plot_ligne-autre
+Marker 55,sig_symbole~plot_ligne_carre_0.wmf, 49.990229%, 50.000000%,##SIG-TOPO-plot_ligne-carre
+Marker 56,sig_symbole~plot_ligne_potelet_0.wmf, 50.000000%, 50.000000%,##SIG-TOPO-plot_ligne-pot
+Marker 57,sig_symbole~plot_ligne_rond_0.wmf, 50.000000%, 50.000000%,##SIG-TOPO-plot_ligne-rond
+Marker 58,sig_symbole~poteau.wmf, 50.000000%, 50.000000%,##SIG-TOPO-poteau
+Marker 59,sig_symbole~poteau_incendie.wmf, 50.000000%, 50.000000%,##SIG-TOPO-poteau_incendie
+Marker 75,sig_symbole~triangle_poubelle_h.wmf, 0.000000%, 49.990229%,##SIG-TOPO-poubelle-triangle_h
+Marker 76,sig_symbole~triangle_poubelle_h_0.wmf, 49.990229%, 0.000000%,##SIG-TOPO-poubelle-triangle_h0
+Marker 60,sig_symbole~puisard.wmf, 50.000000%, 50.000000%,##SIG-TOPO-puisard
+Marker 61,sig_symbole~pylone_ht_2.wmf, 7.004378%, 7.594016%,##SIG-TOPO-pylone-ht
+Marker 62,sig_symbole~rampe.wmf, 50.000000%, 0.000000%,##SIG-TOPO-rampe
+Marker 63,sig_symbole~repere_alti.wmf, 50.000000%, 0.000000%,##SIG-TOPO-repere_alti
+Marker 65,sig_symbole~sup_catenaire_rond.wmf, 50.000000%, 50.000000%,##SIG-TOPO-sup_catenaire-rond
+Marker 39,sig_symbole~feu.wmf, 15.048989%, 51.757576%,##SIG-TOPO-sup_feu_signal
+Marker 40,sig_symbole~feu_0.wmf, 50.000000%, 14.035088%,##SIG-TOPO-sup_feu_signal-0
+Marker 49,sig_symbole~plaque_ptt_1_0.wmf, 0.000000%, 0.000000%,##SIG-TOPO-tamp_acc_poly-1v
+Marker 17,sig_symbole~barre_verticale_3_0.wmf, 50.000000%, 100.000000%,##SIG-xTOPO-barre_verticale-bas0
+Marker 18,sig_symbole~barre_verticale_2_0.wmf, 50.000000%, 0.000000%,##SIG-xTOPO-barre_verticale-haut0
+Marker 30,sig_symbole~croix_grillage_0.wmf, 49.995823%, 49.995823%,##SIG-xTOPO-cloture-grillage
+Marker 28,sig_symbole~cloture.wmf, 50.000000%, 50.000000%,##SIG-xTOPO-cloture-rond
+Marker 72,sig_symbole~trait_oblique_45_0.wmf, 49.993074%, 0.000000%,##SIG-xTOPO-culee-trait45_centre
+Marker 26,sig_symbole~carre_vide_0.wmf, 50.000000%, 0.000000%,##SIG-xTOPO-glissiere-carre
+Marker 41,sig_symbole~haie_bas_0.wmf, 50.000000%, 100.000000%,##SIG-xTOPO-haie-V_bas
+Marker 42,sig_symbole~haie_v_0.wmf, 50.000000%, 0.000000%,##SIG-xTOPO-haie-V_haut
+Marker 12,sig_symbole~t_palplanche_0.wmf, 50.000000%, 0.000000%,##SIG-xTOPO-mur_souten-T
+Marker 46,sig_symbole~palplanche_1_0.wmf, 49.991710%, 0.000000%,##SIG-xTOPO-palplanche-1
+Marker 47,sig_symbole~palplanche_2_0.wmf, 50.000000%, 0.000000%,##SIG-xTOPO-palplanche-2
+Marker 27,sig_symbole~carre_plein_0.wmf, 50.000000%, 0.000000%,##SIG-xTOPO-rambarde-carre
+Marker 74,sig_symbole~traverse_7_43_0.wmf, 0.000000%, 14.119810%,##SIG-xTOPO-voie_fer-traverse_7_43
+Marker 109,sig_symbole~pylone_ht_1.wmf, 49.990229%, 50.000000%,##STD-carre_barre
+Marker 107,sig_symbole~carre_plein.wmf, 49.990229%, 49.990259%,##STD-carre_plein
+Marker 108,sig_symbole~carre_vide.wmf, 49.990229%, 49.990259%,##STD-carre_vide
+Marker 111,sig_symbole~croix_1.wmf, 50.000000%, 50.000000%,##STD-croix
+Marker 112,sig_symbole~croix_2.wmf, 50.000000%, 50.000000%,##STD-croix_x
+Marker 121,DICT.wmf, 49.929078%, 50.000000%,##STD-dict
+Marker 120,DR.wmf, 50.000000%, 49.949546%,##STD-dr
+Marker 123,RDICT.wmf, 49.929078%, 50.000000%,##STD-rdict
+Marker 122,RDR.wmf, 49.929078%, 49.950446%,##STD-rdr
+Marker 105,carto~rond.wmf, 50.000000%, 50.000000%,##STD-rond_plein
+Marker 124,urba_pos~rond_plein_16.wmf, 49.993363%, 50.000000%,##STD-rond_plein-poly16
+Marker 125,urba_pos~rond_plein_24.wmf, 50.000000%, 50.000000%,##STD-rond_plein-poly24
+Marker 106,sig_echange~cercle_vide.wmf, 49.990229%, 49.990259%,##STD-rond_vide
+Marker 126,urba_pos~rond_vide_16.wmf, 49.993363%, 50.000000%,##STD-rond_vide-poly16
+Marker 127,urba_pos~rond_vide_24.wmf, 50.000000%, 50.000000%,##STD-rond_vide-poly24
+Marker 115,sig_symbole~triangle_danger_0.wmf, 50.000000%, 33.324638%,##STD-triangle_danger
+Marker 114,sig_symbole~triangle_plein_0.wmf, 50.000000%, 33.327553%,##STD-triangle_plein
+Marker 113,sig_symbole~triangle_vide_0.wmf, 50.000000%, 33.327553%,##STD-triangle_vide
+Marker 77,sig_symbole~pylone_ht_1.wmf, 0.000000%, 0.000000%,##carre_barre
+
+;Début des traits
+StyleLineCreate 10,200,ARGB(255,0,0,0),6,1,0,0,-1,-1,512,##10
+StyleLineCreate 100,1,ARGB(255,255,190,0),1,2,0,0,-1,-1,512,##100
+StyleLineCreate 101,2,ARGB(255,255,190,0),1,2,0,0,-1,-1,512,##101
+StyleLineCreate 10143,100,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##10143
+StyleLineCreate 102,1,ARGB(255,255,230,0),1,2,0,0,-1,-1,512,##102
+StyleLineCreate 103,1,ARGB(255,255,230,0),2,2,0,0,-1,-1,512,##103
+StyleLineCreate 104,4,ARGB(255,255,230,0),2,2,0,0,-1,-1,512,##104
+StyleLineCreate 105,2,ARGB(255,255,230,0),5,2,0,0,-1,-1,512,##105
+StyleLineCreate 106,1,ARGB(255,255,255,0),1,2,0,0,-1,-1,512,##106
+StyleLineCreate 107,4,ARGB(255,255,255,0),1,2,0,0,-1,-1,512,##107
+StyleLineCreate 108,1,ARGB(255,255,255,180),1,2,0,0,-1,-1,512,##108
+StyleLineCreate 109,1,ARGB(255,150,110,190),1,2,0,0,-1,-1,512,##109
+StyleLineCreate 11,4,ARGB(255,0,0,0),6,2,0,0,-1,-1,512,##11
+StyleLineCreate 110,2,ARGB(255,150,110,190),1,2,0,0,-1,-1,512,##110
+StyleLineCreate 111,3,ARGB(255,170,130,210),1,2,0,0,-1,-1,512,##111
+StyleLineCreate 112,3,ARGB(255,215,175,255),1,2,0,0,-1,-1,512,##112
+StyleLineCreate 113,2,ARGB(255,185,0,185),1,2,0,0,-1,-1,512,##113
+StyleLineCreate 114,3,ARGB(255,185,0,185),1,2,0,0,-1,-1,512,##114
+StyleLineCreate 115,2,ARGB(255,185,0,185),2,2,0,0,-1,-1,512,##115
+StyleLineCreate 116,1,ARGB(255,255,0,255),1,2,0,0,-1,-1,512,##116
+StyleLineCreate 117,2,ARGB(255,255,0,255),1,2,0,0,-1,-1,512,##117
+StyleLineCreate 118,3,ARGB(255,255,0,255),1,2,0,0,-1,-1,512,##118
+StyleLineCreate 119,4,ARGB(255,255,0,255),1,2,0,0,-1,-1,512,##119
+StyleLineCreate 12,1,ARGB(255,0,0,0),4,2,0,0,-1,-1,512,##12
+StyleLineCreate 120,1,ARGB(255,255,0,255),2,2,0,0,-1,-1,512,##120
+StyleLineCreate 121,2,ARGB(255,255,0,255),2,2,0,0,-1,-1,512,##121
+StyleLineCreate 122,3,ARGB(255,255,0,255),2,2,0,0,-1,-1,512,##122
+StyleLineCreate 123,2,ARGB(255,255,180,255),1,2,0,0,-1,-1,512,##123
+StyleLineCreate 124,1,ARGB(255,150,190,110),1,2,0,0,-1,-1,512,##124
+StyleLineCreate 125,1,ARGB(255,215,255,175),1,2,0,0,-1,-1,512,##125
+StyleLineCreate 126,2,ARGB(255,0,185,0),1,2,0,0,-1,-1,512,##126
+StyleLineCreate 127,3,ARGB(255,0,185,0),1,2,0,0,-1,-1,512,##127
+StyleLineCreate 128,1,ARGB(255,0,185,0),2,2,0,0,-1,-1,512,##128
+StyleLineCreate 129,3,ARGB(255,0,185,0),6,2,0,0,-1,-1,512,##129
+StyleLineCreate 13,2,ARGB(255,0,0,0),4,2,0,0,-1,-1,512,##13
+StyleLineCreate 130,1,ARGB(255,0,220,0),1,2,0,0,-1,-1,512,##130
+StyleLineCreate 131,2,ARGB(255,0,220,0),1,2,0,0,-1,-1,512,##131
+StyleLineCreate 132,3,ARGB(255,0,220,0),1,2,0,0,-1,-1,512,##132
+StyleLineCreate 133,1,ARGB(255,0,220,0),2,2,0,0,-1,-1,512,##133
+StyleLineCreate 134,2,ARGB(255,0,220,0),2,2,0,0,-1,-1,512,##134
+StyleLineCreate 135,1,ARGB(255,0,220,0),6,2,0,0,-1,-1,512,##135
+StyleLineCreate 136,2,ARGB(255,0,220,0),6,2,0,0,-1,-1,512,##136
+StyleLineCreate 137,2,ARGB(255,0,220,0),4,2,0,0,-1,-1,512,##137
+StyleLineCreate 138,1,ARGB(255,0,255,0),1,2,0,0,-1,-1,512,##138
+StyleLineCreate 139,2,ARGB(255,0,255,0),1,2,0,0,-1,-1,512,##139
+StyleLineCreate 14,3,ARGB(255,0,0,0),4,2,0,0,-1,-1,512,##14
+StyleLineCreate 140,3,ARGB(255,0,255,0),1,2,0,0,-1,-1,512,##140
+StyleLineCreate 141,4,ARGB(255,0,255,0),1,2,0,0,-1,-1,512,##141
+StyleLineCreate 142,3,ARGB(255,0,255,0),2,2,0,0,-1,-1,512,##142
+StyleLineCreate 143,1,ARGB(255,180,255,180),1,2,0,0,-1,-1,512,##143
+StyleLineCreate 144,2,ARGB(255,180,255,180),1,2,0,0,-1,-1,512,##144
+StyleLineCreate 145,1,ARGB(255,100,100,100),1,2,0,0,-1,-1,512,##145
+StyleLineCreate 146,1,ARGB(255,140,140,140),1,2,0,0,-1,-1,512,##146
+StyleLineCreate 147,1,ARGB(255,140,140,140),2,2,0,0,-1,-1,512,##147
+StyleLineCreate 148,2,ARGB(255,140,140,140),5,2,0,0,-1,-1,512,##148
+StyleLineCreate 149,1,ARGB(255,160,160,160),2,2,0,0,-1,-1,512,##149
+StyleLineCreate 15,4,ARGB(255,0,0,0),7,2,0,0,-1,-1,512,10,2,##15
+StyleLineCreate 150,1,ARGB(255,190,190,190),1,2,0,0,-1,-1,512,##150
+StyleLineCreate 151,1,ARGB(255,215,215,215),1,2,0,0,-1,-1,512,##151
+StyleLineCreate 152,1,ARGB(255,235,235,235),1,2,0,0,-1,-1,512,##152
+StyleLineCreate 153,100,ARGB(255,255,255,255),1,1,0,0,-1,-1,512,##153
+StyleLineCreate 154,1,ARGB(255,140,140,255),1,2,0,0,-1,-1,512,##154
+StyleLineCreate 155,1,ARGB(255,180,180,255),1,2,0,0,-1,-1,512,##155
+StyleLineCreate 156,1,ARGB(255,210,170,130),1,2,0,0,-1,-1,512,##156
+StyleLineCreate 157,1,ARGB(255,170,130,210),1,2,0,0,-1,-1,512,##157
+StyleLineCreate 158,1,ARGB(255,0,185,0),1,2,0,0,-1,-1,512,##158
+StyleLineCreate 16,1,ARGB(255,0,0,0),5,2,0,0,-1,-1,512,##16
+StyleLineCreate 17,1,ARGB(255,0,0,185),1,2,0,0,-1,-1,512,##17
+StyleLineCreate 18,1,ARGB(255,0,0,255),1,2,0,0,-1,-1,512,##18
+StyleLineCreate 19,2,ARGB(255,0,0,255),1,2,0,0,-1,-1,512,##19
+StyleLineCreate 2,2,ARGB(255,0,0,0),1,2,0,0,-1,-1,512,##2
+StyleLineCreate 20,3,ARGB(255,0,0,255),1,2,0,0,-1,-1,512,##20
+StyleLineCreate 21,4,ARGB(255,0,0,255),1,2,0,0,-1,-1,512,##21
+StyleLineCreate 22,1,ARGB(255,0,0,255),2,2,0,0,-1,-1,512,##22
+StyleLineCreate 23,3,ARGB(255,0,0,255),2,2,0,0,-1,-1,512,##23
+StyleLineCreate 24,1,ARGB(255,0,0,255),5,2,0,0,-1,-1,512,##24
+StyleLineCreate 25,2,ARGB(255,0,0,255),5,2,0,0,-1,-1,512,##25
+StyleLineCreate 26,2,ARGB(255,140,140,255),1,2,0,0,-1,-1,512,##26
+StyleLineCreate 27,3,ARGB(255,140,140,255),1,2,0,0,-1,-1,512,##27
+StyleLineCreate 28,1,ARGB(255,140,140,255),2,2,0,0,-1,-1,512,##28
+StyleLineCreate 29,2,ARGB(255,140,140,255),6,2,0,0,-1,-1,512,##29
+StyleLineCreate 3,3,ARGB(255,0,0,0),1,2,0,0,-1,-1,512,##3
+StyleLineCreate 30,2,ARGB(255,180,180,255),1,2,0,0,-1,-1,512,##30
+StyleLineCreate 31,2,ARGB(255,180,180,255),5,2,0,0,-1,-1,512,##31
+StyleLineCreate 32,1,ARGB(255,215,215,255),1,2,0,0,-1,-1,512,##32
+StyleLineCreate 33,2,ARGB(255,175,215,255),1,2,0,0,-1,-1,512,##33
+StyleLineCreate 34,1,ARGB(255,0,185,185),1,2,0,0,-1,-1,512,##34
+StyleLineCreate 35,1,ARGB(255,0,255,255),1,2,0,0,-1,-1,512,##35
+StyleLineCreate 36,2,ARGB(255,0,255,255),1,2,0,0,-1,-1,512,##36
+StyleLineCreate 37,3,ARGB(255,0,255,255),1,2,0,0,-1,-1,512,##37
+StyleLineCreate 38,1,ARGB(255,0,255,255),2,2,0,0,-1,-1,512,##38
+StyleLineCreate 39,2,ARGB(255,0,255,255),2,2,0,0,-1,-1,512,##39
+StyleLineCreate 4,4,ARGB(255,0,0,0),1,2,0,0,-1,-1,512,##4
+StyleLineCreate 41,2,ARGB(255,0,255,255),6,2,0,0,-1,-1,512,##41
+StyleLineCreate 42,1,ARGB(255,0,255,255),4,2,0,0,-1,-1,512,##42
+StyleLineCreate 43,4,ARGB(255,0,255,255),4,2,0,0,-1,-1,512,##43
+StyleLineCreate 44,2,ARGB(255,0,255,255),4,2,0,0,-1,-1,512,##44
+StyleLineCreate 45,1,ARGB(255,0,255,255),5,2,0,0,-1,-1,512,##45
+StyleLineCreate 46,2,ARGB(255,0,255,255),5,2,0,0,-1,-1,512,##46
+StyleLineCreate 47,3,ARGB(255,0,255,255),5,2,0,0,-1,-1,512,##47
+StyleLineCreate 48,1,ARGB(255,170,240,240),1,2,0,0,-1,-1,512,##48
+StyleLineCreate 49,2,ARGB(255,170,240,240),1,2,0,0,-1,-1,512,##49
+StyleLineCreate 5,1,ARGB(255,0,0,0),2,2,0,0,-1,-1,512,##5
+StyleLineCreate 50,1,ARGB(255,210,130,170),1,2,0,0,-1,-1,512,##50
+StyleLineCreate 51,1,ARGB(255,230,150,190),1,2,0,0,-1,-1,512,##51
+StyleLineCreate 52,1,ARGB(255,190,150,110),1,2,0,0,-1,-1,512,##52
+StyleLineCreate 53,3,ARGB(255,190,150,110),1,2,0,0,-1,-1,512,##53
+StyleLineCreate 54,1,ARGB(255,190,150,110),2,2,0,0,-1,-1,512,##54
+StyleLineCreate 55,2,ARGB(255,190,150,110),6,2,0,0,-1,-1,512,##55
+StyleLineCreate 56,3,ARGB(255,210,170,130),1,2,0,0,-1,-1,512,##56
+StyleLineCreate 57,1,ARGB(255,210,170,130),2,2,0,0,-1,-1,512,##57
+StyleLineCreate 58,2,ARGB(255,210,170,130),2,2,0,0,-1,-1,512,##58
+StyleLineCreate 59,1,ARGB(255,230,190,150),1,2,0,0,-1,-1,512,##59
+StyleLineCreate 6,2,ARGB(255,0,0,0),2,2,0,0,-1,-1,512,##6
+StyleLineCreate 60,3,ARGB(255,230,190,150),1,2,0,0,-1,-1,512,##60
+StyleLineCreate 61,4,ARGB(255,230,190,150),1,2,0,0,-1,-1,512,##61
+StyleLineCreate 62,1,ARGB(255,255,215,175),1,2,0,0,-1,-1,512,##62
+StyleLineCreate 63,2,ARGB(255,255,215,175),1,2,0,0,-1,-1,512,##63
+StyleLineCreate 64,1,ARGB(255,150,0,0),1,2,0,0,-1,-1,512,##64
+StyleLineCreate 65,1,ARGB(255,185,0,0),1,2,0,0,-1,-1,512,##65
+StyleLineCreate 66,3,ARGB(255,185,0,0),2,2,0,0,-1,-1,512,##66
+StyleLineCreate 67,1,ARGB(255,255,0,0),1,2,0,0,-1,-1,512,##67
+StyleLineCreate 68,2,ARGB(255,255,0,0),1,2,0,0,-1,-1,512,##68
+StyleLineCreate 69,3,ARGB(255,255,0,0),1,2,0,0,-1,-1,512,##69
+StyleLineCreate 7,3,ARGB(255,0,0,0),2,2,0,0,-1,-1,512,##7
+StyleLineCreate 70,4,ARGB(255,255,0,0),1,2,0,0,-1,-1,512,##70
+StyleLineCreate 71,1,ARGB(255,255,0,0),2,2,0,0,-1,-1,512,##71
+StyleLineCreate 72,3,ARGB(255,255,0,0),2,2,0,0,-1,-1,512,##72
+StyleLineCreate 73,1,ARGB(255,255,0,0),6,2,0,0,-1,-1,512,##73
+StyleLineCreate 74,2,ARGB(255,255,0,0),6,2,0,0,-1,-1,512,##74
+StyleLineCreate 75,2,ARGB(255,255,0,0),4,2,0,0,-1,-1,512,##75
+StyleLineCreate 76,3,ARGB(255,255,0,0),4,2,0,0,-1,-1,512,##76
+StyleLineCreate 77,4,ARGB(255,255,0,0),4,2,0,0,-1,-1,512,##77
+StyleLineCreate 78,1,ARGB(255,255,140,140),1,2,0,0,-1,-1,512,##78
+StyleLineCreate 79,2,ARGB(255,255,140,140),1,2,0,0,-1,-1,512,##79
+StyleLineCreate 8,4,ARGB(255,235,235,235),2,2,0,0,-1,-1,512,##8
+StyleLineCreate 80,3,ARGB(255,255,140,140),1,2,0,0,-1,-1,512,##80
+StyleLineCreate 81,1,ARGB(255,255,140,140),2,2,0,0,-1,-1,512,##81
+StyleLineCreate 82,3,ARGB(255,255,140,140),2,2,0,0,-1,-1,512,##82
+StyleLineCreate 83,1,ARGB(255,255,140,140),4,2,0,0,-1,-1,512,##83
+StyleLineCreate 84,1,ARGB(255,255,180,180),1,2,0,0,-1,-1,512,##84
+StyleLineCreate 85,2,ARGB(255,255,180,180),1,2,0,0,-1,-1,512,##85
+StyleLineCreate 86,2,ARGB(255,255,215,215),1,2,0,0,-1,-1,512,##86
+StyleLineCreate 87,1,ARGB(255,255,215,215),2,2,0,0,-1,-1,512,##87
+StyleLineCreate 88,1,ARGB(255,255,110,0),1,2,0,0,-1,-1,512,##88
+StyleLineCreate 89,2,ARGB(255,255,110,0),1,2,0,0,-1,-1,512,##89
+StyleLineCreate 9,1,ARGB(255,190,190,190),6,2,0,0,-1,-1,512,##9
+StyleLineCreate 90,2,ARGB(255,255,110,0),2,2,0,0,-1,-1,512,##90
+StyleLineCreate 91,3,ARGB(255,255,110,0),5,2,0,0,-1,-1,512,##91
+StyleLineCreate 92,1,ARGB(255,255,150,0),1,2,0,0,-1,-1,512,##92
+StyleLineCreate 93,2,ARGB(255,255,150,0),1,2,0,0,-1,-1,512,##93
+StyleLineCreate 94,3,ARGB(255,255,150,0),1,2,0,0,-1,-1,512,##94
+StyleLineCreate 95,4,ARGB(255,255,150,0),1,2,0,0,-1,-1,512,##95
+StyleLineCreate 96,4,ARGB(255,255,150,0),2,2,0,0,-1,-1,512,##96
+StyleLineCreate 97,2,ARGB(255,255,150,0),6,2,0,0,-1,-1,512,##97
+StyleLineCreate 98,3,ARGB(255,255,150,0),4,2,0,0,-1,-1,512,##98
+StyleLineCreate 99,3,ARGB(255,255,150,0),5,2,0,0,-1,-1,512,##99
+StyleLineCreate 40,1,ARGB(255,0,255,255),6,2,0,0,-1,-1,512,##APIC
+StyleLineCreate 10324,100,ARGB(255,0,185,0),1,1,0,0,-1,-1,512,##CARTO_AR_rangée_d_arbres
+StyleLineCreate 10325,50,ARGB(255,0,0,0),7,1,0,0,-1,-1,512,25,75,##CARTO_BA_barriere
+StyleLineCreate 10328,50,ARGB(255,0,0,0),7,1,0,0,-1,-1,512,1000,200,200,200,##CARTO_BN_chaussée_non_bordurée
+SymboleLineWithGraphicsCreate 10308,0,500,1,223,150,-100,0,300,100,##CARTO_BO_bordure
+SymboleLineWithGraphicsCreate 10309,0,200,1,223,0,-100,0,200,100,##CARTO_BO_bordurette
+StyleLineCreate 10329,50,ARGB(255,255,190,0),1,1,0,0,-1,-1,512,##CARTO_CC_courbe_de_niveau
+SymboleLineWithGraphicsCreate 10313,0,1000,1,224,0,-100,0,200,200,##CARTO_CL_cloture
+StyleLineCreate 10330,50,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##CARTO_FA_facade
+StyleLineCreate 10331,50,ARGB(255,120,192,212),1,1,0,0,-1,-1,512,##CARTO_FO_fossé
+StyleLineCreate 10332,50,ARGB(255,0,0,0),7,1,0,0,-1,-1,512,2000,500,##CARTO_GL_glissiere_de_securité
+StyleLineCreate 10333,70,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##CARTO_GO_gouttiere
+StyleLineCreate 10334,50,ARGB(255,255,204,230),1,1,0,0,-1,-1,512,##CARTO_HT_ligne_a_haute_tension
+StyleLineCreate 10335,10,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##CARTO_LA_limite_apparente
+StyleLineCreate 10336,10,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##CARTO_LI_limite_de_commune
+StyleLineCreate 10337,50,ARGB(255,234,22,30),7,1,0,0,-1,-1,512,200,200,##CARTO_LP_limite_de_planche
+StyleLineCreate 10338,10,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##CARTO_MS_mur_de_soutenement
+StyleLineCreate 10339,70,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##CARTO_OE_ouvrage_d_art
+StyleLineCreate 10341,10,ARGB(255,0,0,0),7,1,0,0,-1,-1,512,500,800,##CARTO_PO_porte
+StyleLineCreate 10342,20,ARGB(255,225,193,222),1,1,0,0,-1,-1,512,##CARTO_RE_batiment_remarquarble
+StyleLineCreate 10315,20,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##CARTO_RR_voie_ferrée
+StyleLineCreate 10343,10,ARGB(255,0,0,0),7,1,0,0,-1,-1,512,25,50,##CARTO_SP_surplomb
+SymboleLineWithGraphicsCreate 10317,0,4000,3,18,3000,-3000,0,1000,3000,##CARTO_TH_talus_haut
+SymboleLineWithGraphicsCreate 10321,0,400,1,18,300,0,0,100,300,##CARTO_TH_talus_haut3
+StyleLineCreate 10311,90,ARGB(255,255,255,255),7,1,0,0,-1,-1,512,1000,1000,##CARTO_construction_legere
+SymboleLineWithGraphicsCreate 10284,0,1000,1,30,750,0,0,500,500,##CARTO_croix_haie
+SymboleLineWithGraphicsCreate 10319,0,9000,3,18,0,-6000,0,1000,6000,##CARTO_talus_haut2
+SymboleLineWithGraphicsCreate 10320,0,900,1,18,0,-100,0,100,600,##CARTO_talus_haut4
+StyleLineCreate 10306,50,ARGB(255,0,0,0),7,1,0,0,-1,-1,512,500,500,##CARTO_tirets_haie
+StyleLineCreate 10340,10,ARGB(255,0,0,0),7,1,0,0,-1,-1,512,1000,500,##CART_PL_palissade
+StyleLineCreate 10204,10,ARGB(255,0,0,0),1,3,0,0,-1,-1,512,##Copie 1 de 100
+StyleLineCreate 10187,1,ARGB(255,145,60,0),1,2,0,0,-1,-1,512,##PLU_CONT_ZONE
+StyleLineCreate 206,10,ARGB(255,202,187,166),1,1,0,0,-1,-1,512,##SIG-CARTO10e-bati_indiv-0.10p
+StyleLineCreate 207,10,ARGB(255,168,148,126),1,1,0,0,-1,-1,512,##SIG-CARTO10e-bati_public-0.10p
+StyleLineCreate 209,10,ARGB(255,0,0,0),1,1,0,1,-1,-1,512, ArrowWidth, -1, 50, ArrowLength, -1, 100,##SIG-CARTO10e-fleche_rappel
+StyleLineCreate 211,30,ARGB(255,175,215,255),1,1,0,0,-1,-1,512,##SIG-CARTO10e-fosse-0.30p
+StyleLineCreate 212,20,ARGB(255,202,187,166),1,1,0,0,-1,-1,512,##SIG-CARTO10e-ilot_geo_retrai-0.20p
+StyleLineCreate 215,20,ARGB(255,202,187,166),8,1,0,0,-1,-1,512,200,100,##SIG-CARTO10e-ligne_habillage-2_1
+StyleLineCreate 216,10,ARGB(255,202,187,166),8,1,0,0,-1,-1,512,100,50,##SIG-CARTO10e-ligne_habillage-2_2
+StyleLineCreate 213,20,ARGB(255,255,255,240),1,1,0,0,-1,-1,512,##SIG-CARTO10e-ligne_habillage-3_1
+StyleLineCreate 214,15,ARGB(255,255,255,240),1,1,0,0,-1,-1,512,##SIG-CARTO10e-ligne_habillage-3_2
+StyleLineCreate 217,20,ARGB(255,202,187,166),8,1,0,0,-1,-1,512,300,200,##SIG-CARTO10e-ligne_habillage-4_1
+StyleLineCreate 218,10,ARGB(255,202,187,166),8,1,0,0,-1,-1,512,150,100,##SIG-CARTO10e-ligne_habillage-4_2
+StyleLineCreate 219,10,ARGB(255,247,187,161),1,1,0,0,-1,-1,512,##SIG-CARTO10e-secteur_pieton-0.10p
+StyleLineCreate 221,30,ARGB(255,141,83,166),1,1,0,0,-1,-1,512,##SIG-CARTO10e-voie_tam-0.30p
+StyleLineCreate 220,60,ARGB(255,141,83,166),1,1,0,0,-1,-1,512,##SIG-CARTO10e-voie_tram-0.60p
+StyleLineCreate 223,30,ARGB(255,141,83,166),8,1,0,0,-1,-1,512,300,150,##SIG-CARTO10e-voie_tram-sout-0.3p
+StyleLineCreate 222,60,ARGB(255,141,83,166),8,1,0,0,-1,-1,512,400,200,##SIG-CARTO10e-voie_tram-sout-0.6p
+StyleLineCreate 208,1000,ARGB(255,0,0,0),1,3,0,1,-1,-1,512, ArrowWidth, -1, 6000, ArrowLength, -1, 12000,##SIG-CARTO10t-fleche_rappel
+StyleLineCreate 210,5000,ARGB(255,175,215,255),1,3,0,0,-1,-1,512,##SIG-CARTO10t-fosse-5.0p
+StyleLineCreate 201,22000,ARGB(255,255,243,129),1,3,0,0,-1,-1,0,##SIG-CARTO10t-grand_axe-RN_RD
+StyleLineCreate 202,34000,ARGB(255,255,243,129),1,3,0,0,-1,-1,0,##SIG-CARTO10t-grand_axe-autre
+StyleLineCreate 203,44000,ARGB(255,255,243,129),1,3,0,0,-1,-1,0,##SIG-CARTO10t-grand_axe-rapide
+StyleLineCreate 160,1,ARGB(255,255,255,255),1,1,3,3,ARGB(255,0,0,0),ARGB(255,0,0,0),512, ArrowWidth, 100, 100, ArrowLength, 10, 10,##SIG-TOPO-entree-1000
+StyleLineCreate 159,10,ARGB(255,255,255,255),1,1,3,3,ARGB(255,0,0,0),ARGB(255,0,0,0),512, ArrowWidth, 200, 200, ArrowLength, 10, 10,##SIG-TOPOe-entree-500
+SymboleLineWithGraphicsCreate 10008,0,320,1,4,240,0,0,80,80,##SIG-xCARTO10e_commune-croix
+StyleLineCreate 3202,16,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,160,160,##SIG-xCARTO10e_commune-tiret
+SymboleLineWithGraphicsCreate 10004,0,32500,3,7,0,0,0,18000,4500,##SIG-xCARTO10t-cim_israel-U1
+SymboleLineWithGraphicsCreate 10005,0,32500,3,7,16250,0,0,18000,4500,##SIG-xCARTO10t-cim_israel-U2
+SymboleLineWithGraphicsCreate 10001,0,28200,3,3,0,0,0,10200,16800,##SIG-xCARTO10t-cimetiere-T1
+SymboleLineWithGraphicsCreate 10002,0,28200,3,3,14100,0,0,10200,16800,##SIG-xCARTO10t-cimetiere-T2
+SymboleLineWithGraphicsCreate 10006,0,40000,3,4,30000,0,0,10000,10000,##SIG-xCARTO10t-commune-croix
+SymboleLineWithGraphicsCreate 10003,0,112000,3,5,0,0,0,80000,80000,##SIG-xCARTO10t-foret-motif
+StyleLineCreate 3201,2000,ARGB(255,0,0,0),8,3,0,0,-1,-1,512,20000,20000,##SIG-xCARTO10t_commune_tiret
+SymboleLineWithGraphicsCreate 6021,0,140,1,28,70,0,0,20,20,##SIG-xTOPOe-cloture-o
+StyleLineCreate 3002,5,ARGB(255,0,0,0),8,1,0,0,-1,-1,8704,60,20,59,1,##SIG-xTOPOe-cloture-tiret
+SymboleLineWithGraphicsCreate 6027,0,140,1,30,70,0,0,20,20,##SIG-xTOPOe-cloture-x
+SymboleLineWithGraphicsCreate 6055,0,60,1,72,30,0,0,60,60,##SIG-xTOPOe-culee_ouvrage-h
+SymboleLineWithGraphicsCreate 6035,0,120,1,26,60,0,0,20,20,##SIG-xTOPOe-glissiere-carre
+SymboleLineWithGraphicsCreate 6051,0,80,1,41,70,0,0,20,10,##SIG-xTOPOe-haie-Vbas
+SymboleLineWithGraphicsCreate 6049,0,80,1,42,30,0,0,20,10,##SIG-xTOPOe-haie-Vhaut
+StyleLineCreate 3006,5,ARGB(255,0,0,0),7,1,0,0,-1,-1,8704,20,20,##SIG-xTOPOe-haie-tiret
+SymboleLineWithGraphicsCreate 6039,0,120,1,12,60,0,0,60,50,##SIG-xTOPOe-mur_souten-T
+SymboleLineWithGraphicsCreate 6043,0,200,1,46,120,0,0,60,50,##SIG-xTOPOe-palplanche-L1
+SymboleLineWithGraphicsCreate 6045,0,200,1,47,180,0,0,60,50,##SIG-xTOPOe-palplanche-L2
+StyleLineCreate 3004,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,8704,100,100,##SIG-xTOPOe-palplanche-tiret
+StyleLineCreate 2105,50,ARGB(255,210,210,210),1,1,0,0,-1,-1,8704,##SIG-xTOPOe-parking_sout-trait1000
+StyleLineCreate 2115,150,ARGB(255,210,210,210),1,1,0,0,-1,-1,8704,##SIG-xTOPOe-parking_sout-trait_200
+StyleLineCreate 2110,100,ARGB(255,210,210,210),1,1,0,0,-1,-1,8704,##SIG-xTOPOe-parking_sout-trait_500
+SymboleLineWithGraphicsCreate 6065,0,450,1,56,390,0,0,60,60,##SIG-xTOPOe-plots-ligne-pot_s
+SymboleLineWithGraphicsCreate 6077,0,270,1,54,210,0,0,100,100,##SIG-xTOPOe-plots_ligne-autre_s
+StyleLineCreate 3014,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,60,30,60,120,##SIG-xTOPOe-plots_ligne-autre_tiret
+SymboleLineWithGraphicsCreate 6073,0,360,1,55,300,0,0,100,100,##SIG-xTOPOe-plots_ligne-carre_s
+StyleLineCreate 3010,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,60,30,60,30,60,30,60,120,##SIG-xTOPOe-plots_ligne-pot_tiret
+StyleLineCreate 3012,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,60,30,60,30,60,120,##SIG-xTOPOe-plots_ligne-rc_tiret
+SymboleLineWithGraphicsCreate 6069,0,360,1,57,300,0,0,100,100,##SIG-xTOPOe-plots_ligne-rond_s
+SymboleLineWithGraphicsCreate 6031,0,120,1,27,60,0,0,20,20,##SIG-xTOPOe-rambarde-carre
+SymboleLineWithGraphicsCreate 6011,0,50,1,18,0,0,0,5,50,##SIG-xTOPOe-talus-I_0.5
+SymboleLineWithGraphicsCreate 6012,0,250,1,18,0,0,0,5,100,##SIG-xTOPOe-talus-I_1
+SymboleLineWithGraphicsCreate 6061,0,160,1,41,140,0,0,40,20,##SIG-xTOPOe-zone_boisee-Vbas
+SymboleLineWithGraphicsCreate 6060,0,160,1,42,60,0,0,40,20,##SIG-xTOPOe-zone_boisee-Vhaut
+SymboleLineWithGraphicsCreate 6020,0,1400,3,28,700,0,0,200,200,##SIG-xTOPOt-cloture-o
+StyleLineCreate 3001,40,ARGB(255,0,0,0),8,3,0,0,-1,-1,8704,600,200,590,10,##SIG-xTOPOt-cloture-tiret
+SymboleLineWithGraphicsCreate 6025,0,1400,3,30,700,0,0,200,200,##SIG-xTOPOt-cloture-x
+SymboleLineWithGraphicsCreate 6053,0,600,3,72,300,0,0,600,600,##SIG-xTOPOt-culee_ouvrage-h
+SymboleLineWithGraphicsCreate 6033,0,1200,3,26,600,0,0,200,200,##SIG-xTOPOt-glissiere-carre
+SymboleLineWithGraphicsCreate 6048,0,800,3,41,700,0,0,200,100,##SIG-xTOPOt-haie-Vbas
+SymboleLineWithGraphicsCreate 6047,0,800,3,42,300,0,0,200,100,##SIG-xTOPOt-haie-Vhaut
+StyleLineCreate 3005,30,ARGB(255,0,0,0),8,3,0,0,-1,-1,8704,200,200,##SIG-xTOPOt-haie-tiret
+SymboleLineWithGraphicsCreate 6037,0,1200,3,12,600,0,0,600,500,##SIG-xTOPOt-mur_souten-T
+SymboleLineWithGraphicsCreate 6041,0,2000,3,46,1150,0,0,600,500,##SIG-xTOPOt-palplanche-L1
+SymboleLineWithGraphicsCreate 6042,0,2000,3,47,1750,0,0,600,500,##SIG-xTOPOt-palplanche-L2
+StyleLineCreate 3003,40,ARGB(255,0,0,0),8,3,0,0,-1,-1,8704,900,1100,##SIG-xTOPOt-palplanche-tiret
+SymboleLineWithGraphicsCreate 6075,0,1300,3,54,900,0,0,550,550,##SIG-xTOPOt-plots_ligne-autre_s
+StyleLineCreate 3013,40,ARGB(255,0,0,0),8,3,0,0,-1,-1,512,200,100,200,800,##SIG-xTOPOt-plots_ligne-autre_tiret
+SymboleLineWithGraphicsCreate 6071,0,1400,3,55,1100,0,0,400,400,##SIG-xTOPOt-plots_ligne-carre_s
+SymboleLineWithGraphicsCreate 6063,0,1400,3,56,1250,0,0,200,200,##SIG-xTOPOt-plots_ligne-pot_s
+StyleLineCreate 3009,40,ARGB(255,0,0,0),8,3,0,0,-1,-1,512,200,100,200,100,200,100,200,300,##SIG-xTOPOt-plots_ligne-pot_tiret
+StyleLineCreate 3011,40,ARGB(255,0,0,0),8,3,0,0,-1,-1,512,200,100,200,100,200,600,##SIG-xTOPOt-plots_ligne-rc_tiret
+SymboleLineWithGraphicsCreate 6067,0,1400,3,57,1100,0,0,450,450,##SIG-xTOPOt-plots_ligne-rond_s
+SymboleLineWithGraphicsCreate 6029,0,1200,3,27,600,0,0,200,200,##SIG-xTOPOt-rambarde-carre
+SymboleLineWithGraphicsCreate 6003,0,1000,3,18,0,0,0,50,1000,##SIG-xTOPOt-talus-I_1
+SymboleLineWithGraphicsCreate 6005,0,5000,3,18,0,0,0,50,2000,##SIG-xTOPOt-talus-I_2
+SymboleLineWithGraphicsCreate 6009,0,3000,3,74,0,0,0,80,2000,##SIG-xTOPOt-voie_ferree-I_2
+SymboleLineWithGraphicsCreate 6007,0,3000,3,18,0,0,0,200,1435,##SIG-xTOPOt-voie_tram-I_1.435
+SymboleLineWithGraphicsCreate 6058,0,1600,3,41,1400,0,0,400,200,##SIG-xTOPOt-zone_boisee-Vbas
+SymboleLineWithGraphicsCreate 6057,0,1600,3,42,600,0,0,400,200,##SIG-xTOPOt-zone_boisee-Vhaut
+StyleLineCreate 3007,40,ARGB(255,0,0,0),8,3,0,0,-1,-1,512,400,400,##SIG-xTOPOt-zone_boisee-tiret
+StyleLineCreate 1104,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,8704,100,50,10,50,##STDe-tp-1.0t_0.5b_0.1t_0.1p
+StyleLineCreate 1105,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,8704,200,70,10,70,##STDe-tp-2.0t_0.7b_0.1t_0.1p
+StyleLineCreate 1106,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,8704,300,100,10,100,##STDe-tp-3t_1b_0.1t_0.1p
+StyleLineCreate 1103,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,8704,50,50,10,50,##STDe-tp_0.5t_0.5b_0.1t_0.1p
+StyleLineCreate 2000,5,ARGB(255,0,0,0),1,1,0,0,-1,-1,8704,##STDe-trait-0.05
+StyleLineCreate 2001,10,ARGB(255,0,0,0),1,1,0,0,-1,-1,8704,##STDe-trait-0.10
+StyleLineCreate 10014,15,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##STDe-trait-0.15
+StyleLineCreate 2002,20,ARGB(255,0,0,0),1,1,0,0,-1,-1,8704,##STDe-trait-0.20
+StyleLineCreate 10015,25,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##STDe-trait-0.25
+StyleLineCreate 2003,30,ARGB(255,0,0,0),1,1,0,0,-1,-1,8704,##STDe-trait-0.30
+StyleLineCreate 10019,35,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##STDe-trait-0.35
+StyleLineCreate 2004,40,ARGB(255,0,0,0),1,1,0,0,-1,-1,8704,##STDe-trait-0.40
+StyleLineCreate 2005,50,ARGB(255,0,0,0),1,1,0,0,-1,-1,8704,##STDe-trait-0.50
+StyleLineCreate 2006,60,ARGB(255,0,0,0),1,1,0,0,-1,-1,8704,##STDe-trait-0.60
+StyleLineCreate 2007,70,ARGB(255,0,0,0),1,1,0,0,-1,-1,8704,##STDe-trait-0.70
+StyleLineCreate 2008,80,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##STDe-trait-0.80
+StyleLineCreate 10020,90,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##STDe-trait-0.90
+StyleLineCreate 2010,100,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##STDe-trait-1.00
+StyleLineCreate 10021,120,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##STDe-trait-1.20
+StyleLineCreate 10022,140,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##STDe-trait-1.40
+StyleLineCreate 10023,150,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##STDe-trait-1.50
+StyleLineCreate 10024,160,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##STDe-trait-1.60
+StyleLineCreate 10025,180,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##STDe-trait-1.80
+StyleLineCreate 10026,200,ARGB(255,0,0,0),1,1,0,0,-1,-1,512,##STDe-trait-2.00
+StyleLineCreate 1001,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,50,50,##STDe-tt-0.5t_0.5b_0.1p
+StyleLineCreate 1002,20,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,50,50,##STDe-tt-0.5t_0.5b_0.2p
+StyleLineCreate 1003,30,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,50,50,##STDe-tt-0.5t_0.5b_0.3p
+StyleLineCreate 1011,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,100,50,##STDe-tt-1.0t_0.5b_0.1p
+StyleLineCreate 1012,20,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,100,50,##STDe-tt-1.0t_0.5b_0.2p
+StyleLineCreate 1013,30,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,100,50,##STDe-tt-1.0t_0.5b_0.3p
+StyleLineCreate 1021,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,100,100,##STDe-tt-1.0t_1.0b_0.1p
+StyleLineCreate 1022,20,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,100,100,##STDe-tt-1.0t_1.0b_0.2p
+StyleLineCreate 1023,30,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,100,100,##STDe-tt-1.0t_1.0b_0.3p
+StyleLineCreate 1035,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,150,50,##STDe-tt-1.5t_0.5b_0.1p
+StyleLineCreate 1036,20,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,150,50,##STDe-tt-1.5t_0.5b_0.2p
+StyleLineCreate 1037,30,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,150,50,##STDe-tt-1.5t_0.5b_0.3p
+StyleLineCreate 1031,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,150,100,##STDe-tt-1.5t_1b_0.1p
+StyleLineCreate 1032,20,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,150,100,##STDe-tt-1.5t_1b_0.2p
+StyleLineCreate 1033,30,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,150,100,##STDe-tt-1.5t_1b_0.3p
+StyleLineCreate 1041,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,200,100,##STDe-tt-2t_1b_0.1p
+StyleLineCreate 1042,20,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,200,100,##STDe-tt-2t_1b_0.2p
+StyleLineCreate 1043,30,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,200,100,##STDe-tt-2t_1b_0.3p
+StyleLineCreate 1051,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,300,100,##STDe-tt-3t_1.0b_0.1p
+StyleLineCreate 1052,20,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,300,100,##STDe-tt-3t_1.0b_0.2p
+StyleLineCreate 1053,30,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,300,100,##STDe-tt-3t_1.0b_0.3p
+StyleLineCreate 1055,10,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,300,150,##STDe-tt-3t_1.5b_0.1p
+StyleLineCreate 1056,20,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,300,150,##STDe-tt-3t_1.5b_0.2p
+StyleLineCreate 1057,30,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,300,150,##STDe-tt-3t_1.5b_0.3p
+StyleLineCreate 10088,180,ARGB(255,0,0,0),8,1,0,0,-1,-1,512,300,150,##STDe-tt-3t_1.5b_1.8p
+
+;Début des multitraits
+SymboleMultipleLineCreate 10007,10006,3201,##10007
+SymboleMultipleLineCreate 10009,10008,3202,##10009
+SymboleMultipleLineCreate 6006,2002,6003,6005,##6006
+SymboleMultipleLineCreate 6008,6007,2002,##6008
+SymboleMultipleLineCreate 6010,6009,2002,##6010
+SymboleMultipleLineCreate 6013,2000,6011,6012,##6013
+SymboleMultipleLineCreate 6022,3001,6020,##6022
+SymboleMultipleLineCreate 6024,3002,6021,##6024
+SymboleMultipleLineCreate 6026,2001,6025,##6026
+SymboleMultipleLineCreate 6028,2001,6027,##6028
+SymboleMultipleLineCreate 6030,2001,6029,##6030
+SymboleMultipleLineCreate 6032,2001,6031,##6032
+SymboleMultipleLineCreate 6034,2001,6033,##6034
+SymboleMultipleLineCreate 6036,2001,6035,##6036
+SymboleMultipleLineCreate 6038,2001,6037,##6038
+SymboleMultipleLineCreate 6040,2001,6039,##6040
+SymboleMultipleLineCreate 6044,6042,6041,3003,##6044
+SymboleMultipleLineCreate 6046,3004,6045,6043,##6046
+SymboleMultipleLineCreate 6050,3005,6048,6047,##6050
+SymboleMultipleLineCreate 6052,3006,6051,6049,##6052
+SymboleMultipleLineCreate 6054,6053,2002,##6054
+SymboleMultipleLineCreate 6056,6055,2001,##6056
+SymboleMultipleLineCreate 6059,3007,6057,6058,##6059
+SymboleMultipleLineCreate 6062,6060,6061,##6062
+SymboleMultipleLineCreate 6064,3009,6063,##6064
+SymboleMultipleLineCreate 6066,3010,6065,##6066
+SymboleMultipleLineCreate 6068,3011,6067,##6068
+SymboleMultipleLineCreate 6070,3012,6069,##6070
+SymboleMultipleLineCreate 6072,3011,6071,##6072
+SymboleMultipleLineCreate 6074,3012,6073,##6074
+SymboleMultipleLineCreate 6076,3013,6075,##6076
+SymboleMultipleLineCreate 6078,3014,6077,##6078
+SymboleMultipleLineCreate 10184,70,101,##Autoroute_Coul
+SymboleMultipleLineCreate 10307,10308,2004,##BO_bordure
+SymboleMultipleLineCreate 10310,10309,2004,##BO_bordurette
+SymboleMultipleLineCreate 10285,4,153,1057,##CA_caniveau
+SymboleMultipleLineCreate 10314,2001,10313,##CL_cloture
+SymboleMultipleLineCreate 10312,10143,10311,##CO_construction_legere
+SymboleMultipleLineCreate 10305,10284,10306,##HA_haie
+SymboleMultipleLineCreate 10304,4,153,##MU_mur
+SymboleMultipleLineCreate 10185,69,100,##Route_Princ_Coul
+SymboleMultipleLineCreate 10322,10317,2001,10319,10321,10320,##TH_talus_crete
+SymboleMultipleLineCreate 10318,10317,2001,10319,##TH_talus_haut
+
+;Début des remplissages
+StyleFillCreate 10,0,ARGB(255,255,215,215),1,##10
+SymboleHatchCreate 100,135,80,1,52,0,##100
+SymboleHatchCreate 103,45,100,1,18,0,##103
+SymboleHatchCreate 104,135,100,1,18,0,##104
+SymboleHatchCreate 105,45,100,1,154,0,##105
+SymboleHatchCreate 106,135,100,1,154,0,##106
+SymboleHatchCreate 107,45,100,1,155,0,##107
+SymboleHatchCreate 108,135,100,1,155,0,##108
+SymboleHatchCreate 109,45,100,1,32,0,##109
+StyleFillCreate 11,0,ARGB(255,0,0,0),1,##11
+SymboleHatchCreate 110,135,100,1,32,0,##110
+SymboleHatchCreate 111,45,100,1,35,0,##111
+SymboleHatchCreate 112,135,100,1,35,0,##112
+SymboleHatchCreate 113,45,100,1,52,0,##113
+SymboleHatchCreate 114,135,100,1,52,0,##114
+SymboleHatchCreate 115,45,100,1,67,0,##115
+SymboleHatchCreate 116,135,100,1,67,0,##116
+SymboleHatchCreate 117,45,100,1,78,0,##117
+SymboleHatchCreate 118,135,100,1,78,0,##118
+SymboleHatchCreate 119,45,100,1,88,0,##119
+StyleFillCreate 12,0,ARGB(255,255,230,0),1,##12
+SymboleHatchCreate 120,135,100,1,88,0,##120
+SymboleHatchCreate 121,45,100,1,92,0,##121
+SymboleHatchCreate 122,135,100,1,92,0,##122
+SymboleHatchCreate 123,45,100,1,102,0,##123
+SymboleHatchCreate 124,135,100,1,102,0,##124
+SymboleHatchCreate 125,45,100,1,125,0,##125
+SymboleHatchCreate 126,135,100,1,125,0,##126
+SymboleHatchCreate 127,45,100,1,130,0,##127
+SymboleHatchCreate 128,135,100,1,130,0,##128
+SymboleHatchCreate 129,45,100,1,138,0,##129
+StyleFillCreate 13,0,ARGB(255,0,0,0),1,##13
+SymboleHatchCreate 130,135,100,1,138,0,##130
+SymboleHatchCreate 131,45,100,1,143,0,##131
+SymboleHatchCreate 132,135,100,1,143,0,##132
+SymboleHatchCreate 133,45,100,1,152,0,##133
+SymboleHatchCreate 134,135,100,1,152,0,##134
+SymboleHatchCreate 135,45,150,1,18,0,##135
+SymboleHatchCreate 136,135,150,1,18,0,##136
+SymboleHatchCreate 137,45,150,1,35,0,##137
+SymboleHatchCreate 138,135,150,1,35,0,##138
+SymboleHatchCreate 139,45,150,1,67,0,##139
+StyleFillCreate 14,0,ARGB(255,255,0,255),1,##14
+SymboleHatchCreate 140,135,150,1,67,0,##140
+SymboleHatchCreate 141,45,150,1,150,0,##141
+SymboleHatchCreate 142,135,150,1,150,0,##142
+SymboleHatchCreate 145,0,150,1,18,0,##145
+SymboleHatchCreate 146,90,150,1,18,0,##146
+SymboleHatchCreate 147,0,150,1,59,0,##147
+SymboleHatchCreate 148,90,150,1,59,0,##148
+SymboleHatchCreate 149,0,150,1,67,0,##149
+StyleFillCreate 15,0,ARGB(255,0,0,0),1,##15
+SymboleHatchCreate 150,90,150,1,67,0,##150
+SymboleHatchCreate 151,0,150,1,130,0,##151
+SymboleHatchCreate 152,90,150,1,130,0,##152
+SymboleHatchCreate 153,0,150,1,138,0,##153
+SymboleHatchCreate 154,90,150,1,138,0,##154
+StyleFillCreate 16,0,ARGB(255,100,100,100),1,##16
+StyleFillCreate 17,0,ARGB(255,190,190,190),1,##17
+StyleFillCreate 18,0,ARGB(255,215,215,215),1,##18
+StyleFillCreate 19,0,ARGB(255,235,235,235),1,##19
+StyleFillCreate 2,0,ARGB(255,0,0,255),1,##2
+StyleFillCreate 3,0,ARGB(255,0,0,0),1,##3
+StyleFillCreate 4,0,ARGB(255,210,130,170),1,##4
+SymboleHatchCreate 43,45,150,1,18,0,##43
+SymboleHatchCreate 44,45,150,1,154,0,##44
+SymboleHatchCreate 45,45,150,1,155,0,##45
+SymboleHatchCreate 46,45,150,1,34,0,##46
+SymboleHatchCreate 47,45,150,1,35,0,##47
+SymboleHatchCreate 48,45,150,1,156,0,##48
+SymboleHatchCreate 49,45,150,1,65,0,##49
+StyleFillCreate 5,0,ARGB(255,0,0,0),1,##5
+SymboleHatchCreate 50,45,150,1,67,0,##50
+SymboleHatchCreate 51,45,150,1,78,0,##51
+SymboleHatchCreate 52,45,150,1,100,0,##52
+SymboleHatchCreate 53,45,150,1,157,0,##53
+SymboleHatchCreate 54,45,150,1,116,0,##54
+SymboleHatchCreate 55,45,150,1,124,0,##55
+SymboleHatchCreate 56,45,150,1,158,0,##56
+SymboleHatchCreate 57,45,150,1,130,0,##57
+SymboleHatchCreate 58,45,150,1,138,0,##58
+StyleFillCreate 6,0,ARGB(255,255,215,175),1,##6
+SymboleHatchCreate 60,0,150,1,67,0,##60
+SymboleHatchCreate 61,0,150,1,92,0,##61
+SymboleHatchCreate 63,90,150,1,67,0,##63
+SymboleHatchCreate 64,90,150,1,138,0,##64
+SymboleHatchCreate 65,135,150,1,154,0,##65
+SymboleHatchCreate 66,135,150,1,35,0,##66
+SymboleHatchCreate 67,135,150,1,67,0,##67
+SymboleHatchCreate 68,135,150,1,106,0,##68
+StyleFillCreate 7,0,ARGB(255,0,0,0),1,##7
+SymboleHatchCreate 70,45,90,1,18,0,##70
+SymboleHatchCreate 71,45,90,1,67,0,##71
+SymboleHatchCreate 73,0,90,1,18,0,##73
+SymboleHatchCreate 74,0,90,1,35,0,##74
+SymboleHatchCreate 75,0,90,1,67,0,##75
+SymboleHatchCreate 76,90,90,1,18,0,##76
+SymboleHatchCreate 77,90,90,1,35,0,##77
+SymboleHatchCreate 78,90,90,1,52,0,##78
+SymboleHatchCreate 79,90,90,1,67,0,##79
+StyleFillCreate 8,0,ARGB(255,255,140,140),1,##8
+StyleFillCreate 9,0,ARGB(255,0,0,0),1,##9
+SymboleHatchCreate 93,45,50,1,59,0,##93
+SymboleHatchCreate 94,135,50,1,59,0,##94
+SymboleHatchCreate 95,45,50,1,100,0,##95
+SymboleHatchCreate 96,135,50,1,100,0,##96
+SymboleHatchCreate 99,45,80,1,52,0,##99
+StyleFillCreate 10378,0,ARGB(255,186,186,186),1,##CARTO_CI_cimetiere
+SymboleHatchCreate 10380,0,5000,1,10001,0,##CARTO_croix_cimetiere
+#Tissu urbain continu
+StyleFillCreate 10248,0,ARGB(199,230,0,77),1,##CLC_111
+#Tissu urbain discontinu
+StyleFillCreate 10249,0,ARGB(199,255,0,0),1,##CLC_112
+#Zones industrielles et commerciales
+StyleFillCreate 10250,0,ARGB(199,204,77,242),1,##CLC_121
+#Réseaux routier et ferroviaire et espaces associés
+StyleFillCreate 10251,0,ARGB(199,204,0,0),1,##CLC_122
+#Zones portuaires
+StyleFillCreate 10252,0,ARGB(199,230,204,204),1,##CLC_123
+#Aéroports
+StyleFillCreate 10253,0,ARGB(199,230,204,230),1,##CLC_124
+#Extraction de matériaux
+StyleFillCreate 10254,0,ARGB(199,166,0,204),1,##CLC_131
+#Décharges
+StyleFillCreate 10255,0,ARGB(199,166,77,0),1,##CLC_132
+#Chantiers
+StyleFillCreate 10256,0,ARGB(199,255,77,255),1,##CLC_133
+#Espaces verts urbains
+StyleFillCreate 10257,0,ARGB(199,255,166,255),1,##CLC_141
+#Equipements sportifs et de loisirs
+StyleFillCreate 10258,0,ARGB(199,255,230,255),1,##CLC_142
+#Terres arables hors périmètres d'irrigation
+StyleFillCreate 10259,0,ARGB(199,255,255,168),1,##CLC_211
+#Périmètres irrigués en permanence
+StyleFillCreate 10260,0,ARGB(199,255,255,0),1,##CLC_212
+#Rizières
+StyleFillCreate 10261,0,ARGB(199,230,230,0),1,##CLC_213
+#Vignobles
+StyleFillCreate 10262,0,ARGB(199,230,128,0),1,##CLC_221
+#Vergers et petits fruits
+StyleFillCreate 10263,0,ARGB(199,242,166,77),1,##CLC_222
+#Oliveraies
+StyleFillCreate 10264,0,ARGB(199,230,166,0),1,##CLC_223
+#Prairies
+StyleFillCreate 10265,0,ARGB(199,230,230,77),1,##CLC_231
+#Cultures annuelles associées aux cultures permanentes
+StyleFillCreate 10266,0,ARGB(199,255,230,166),1,##CLC_241
+#Systèmes culturaux et parcellaires complexes
+StyleFillCreate 10267,0,ARGB(199,255,230,77),1,##CLC_242
+#Surfaces essentiellement agricoles, interrompues par des espaces naturels importants
+StyleFillCreate 10268,0,ARGB(199,230,204,77),1,##CLC_243
+#Territoires agro-forestiers
+StyleFillCreate 10269,0,ARGB(199,242,204,166),1,##CLC_244
+#Forêts de feuillus
+StyleFillCreate 10270,0,ARGB(199,128,255,0),1,##CLC_311
+#Forêts de conifères
+StyleFillCreate 10271,0,ARGB(199,0,166,0),1,##CLC_312
+#Forêts mélangées
+StyleFillCreate 10272,0,ARGB(199,77,255,0),1,##CLC_313
+#Pelouses et pâturages naturels
+StyleFillCreate 10273,0,ARGB(199,204,242,77),1,##CLC_321
+#Landes et broussailles
+StyleFillCreate 10274,0,ARGB(199,166,255,128),1,##CLC_322
+#Végétation sclérophylle
+StyleFillCreate 10275,0,ARGB(199,166,230,77),1,##CLC_323
+#Forêt et végétation arbustive en mutation
+StyleFillCreate 10276,0,ARGB(199,166,242,0),1,##CLC_324
+#Plages, dunes et sable
+StyleFillCreate 10277,0,ARGB(199,230,230,230),1,##CLC_331
+#Roches nues
+StyleFillCreate 10278,0,ARGB(199,204,204,204),1,##CLC_332
+#Végétation clairsemée
+StyleFillCreate 10279,0,ARGB(199,204,255,204),1,##CLC_333
+#Zones incendiées
+StyleFillCreate 10280,0,ARGB(199,0,0,0),1,##CLC_334
+#Glaciers et neiges éternelles
+StyleFillCreate 10281,0,ARGB(199,166,230,204),1,##CLC_335
+#Marais intérieurs
+StyleFillCreate 10282,0,ARGB(199,166,166,255),1,##CLC_411
+#Tourbières
+StyleFillCreate 10283,0,ARGB(199,77,77,255),1,##CLC_412
+#Marais maritimes
+StyleFillCreate 10284,0,ARGB(199,204,204,255),1,##CLC_421
+#Marais salants
+StyleFillCreate 10285,0,ARGB(199,230,230,255),1,##CLC_422
+#Zones intertidales
+StyleFillCreate 10286,0,ARGB(199,166,166,230),1,##CLC_423
+#Cours et voies d'eau
+StyleFillCreate 10287,0,ARGB(199,0,204,242),1,##CLC_511
+#Cours et voies d'eau
+StyleFillCreate 10350,0,ARGB(199,108,233,255),1,##CLC_511_b
+#Cours et voies d'eau
+StyleFillCreate 10351,0,ARGB(199,0,155,183),1,##CLC_511_c
+#Plans d'eau
+StyleFillCreate 10288,0,ARGB(199,128,242,230),1,##CLC_512
+#Lagunes littorales
+StyleFillCreate 10289,0,ARGB(199,0,255,166),1,##CLC_521
+#Estuaires
+StyleFillCreate 10290,0,ARGB(199,166,255,230),1,##CLC_522
+#Mers et océans
+StyleFillCreate 10291,0,ARGB(199,230,242,255),1,##CLC_523
+StyleFillCreate 10312,0,ARGB(102,154,154,154),1,##COS_T40_Gris
+StyleFillCreate 10310,0,ARGB(102,234,22,30),1,##COS_T40_Rouge
+StyleFillCreate 10311,0,ARGB(102,26,170,66),1,##COS_T40_Vert
+StyleFillCreate 10330,0,ARGB(178,147,31,209),1,##ECO
+StyleFillCreate 10243,0,ARGB(199,240,255,240),1,##PLU_DS_A
+StyleFillCreate 10241,0,ARGB(199,255,255,73),1,##PLU_DS_AUC
+StyleFillCreate 10242,0,ARGB(199,255,255,195),1,##PLU_DS_AUD
+StyleFillCreate 10246,0,ARGB(199,200,255,100),1,##PLU_DS_NE
+StyleFillCreate 10247,0,ARGB(199,150,255,210),1,##PLU_DS_NE1
+StyleFillCreate 10245,0,ARGB(199,230,255,0),1,##PLU_DS_NP
+StyleFillCreate 10231,0,ARGB(199,255,168,0),1,##PLU_DS_UA
+StyleFillCreate 10232,0,ARGB(199,255,222,0),1,##PLU_DS_UB
+StyleFillCreate 10233,0,ARGB(199,255,235,168),1,##PLU_DS_UC
+StyleFillCreate 10234,0,ARGB(199,255,235,230),1,##PLU_DS_UD
+StyleFillCreate 10235,0,ARGB(199,255,226,255),1,##PLU_DS_UE
+StyleFillCreate 10236,0,ARGB(199,202,200,255),1,##PLU_DS_UF
+StyleFillCreate 10237,0,ARGB(199,255,187,255),1,##PLU_DS_UG
+StyleFillCreate 10239,0,ARGB(199,223,177,211),1,##PLU_DS_ULMKUH
+StyleFillCreate 10244,0,ARGB(199,214,230,153),1,##PLU_DS_UP
+StyleFillCreate 10240,0,ARGB(199,240,240,240),1,##PLU_DS_UV
+StyleFillCreate 10238,0,ARGB(199,202,220,255),1,##PLU_DS_UX
+StyleFillCreate 1005,0,ARGB(255,168,255,192),1,##SIG-CARTO-am_es_vert-autre
+StyleFillCreate 1006,0,ARGB(255,160,255,225),1,##SIG-CARTO-am_es_vert-foret
+StyleFillCreate 1007,0,ARGB(255,137,205,173),1,##SIG-CARTO-am_es_vert-sport
+StyleFillCreate 1002,0,ARGB(255,218,200,165),1,##SIG-CARTO-bati_indiv
+StyleFillCreate 1011,0,ARGB(255,168,148,126),1,##SIG-CARTO-bati_public
+StyleFillCreate 1004,0,ARGB(255,188,234,243),1,##SIG-CARTO-hydrographie
+StyleFillCreate 1009,0,ARGB(255,245,245,245),1,##SIG-CARTO-ilot_geo-activ
+StyleFillCreate 1008,0,ARGB(255,255,255,240),1,##SIG-CARTO-ilot_geo-autre
+StyleFillCreate 1010,0,ARGB(255,247,187,161),1,##SIG-CARTO-secteur_pieton
+SymboleHatchCreate 10103,0,112000,3,10003,0,##SIG-CARTO10t-foret-ts
+SymboleHatchCreate 162,135,100,1,2105,0,##SIG-TOPOe-parking_sout-1000
+SymboleHatchCreate 160,135,300,1,2115,0,##SIG-TOPOe-parking_sout-200
+SymboleHatchCreate 161,135,200,1,2110,0,##SIG-TOPOe-parking_sout-500
+SymboleHatchCreate 500,90,1000,3,2001,0,##SIG-TOPOt-mur_cloture-plein-1
+SymboleHatchCreate 10104,0,65000,3,10004,0,##SIG-xCARTO10t-cim_israel-h1
+SymboleHatchCreate 10105,0,65000,3,10005,32500,##SIG-xCARTO10t-cim_israel-h2
+SymboleHatchCreate 10101,0,5000,1,10001,0,##SIG-xCARTO10t-cimetiere-h1
+SymboleHatchCreate 10102,0,56400,3,10002,28200,##SIG-xCARTO10t-cimetiere-h2
+SymboleHatchCreate 302,135,20,1,2000,0,##STDe-hachure-nose-0.2
+SymboleHatchCreate 303,135,30,1,2000,0,##STDe-hachure-nose-0.3
+SymboleHatchCreate 304,135,40,1,2000,0,##STDe-hachure-nose-0.4
+SymboleHatchCreate 305,135,50,1,2001,0,##STDe-hachure-nose-0.5
+SymboleHatchCreate 306,135,60,1,2001,0,##STDe-hachure-nose-0.6
+SymboleHatchCreate 307,135,70,1,2001,0,##STDe-hachure-nose-0.7
+SymboleHatchCreate 308,135,80,1,2001,40,##STDe-hachure-nose-0.8
+SymboleHatchCreate 310,135,100,1,2001,50,##STDe-hachure-nose-1.0
+SymboleHatchCreate 315,135,150,1,2001,75,##STDe-hachure-nose-1.5
+SymboleHatchCreate 320,135,200,1,2001,100,##STDe-hachure-nose-2.0
+SymboleHatchCreate 325,135,250,1,2001,125,##STDe-hachure-nose-2.5
+SymboleHatchCreate 330,135,300,1,2001,150,##STDe-hachure-nose-3.0
+SymboleHatchCreate 340,135,400,1,2001,200,##STDe-hachure-nose-4.0
+SymboleHatchCreate 350,135,500,1,2001,250,##STDe-hachure-nose-5.0
+SymboleHatchCreate 502,90,200,1,2001,0,##STDe-hachure-ns-2.0
+SymboleHatchCreate 503,90,300,1,2001,0,##STDe-hachure-ns-3.0
+SymboleHatchCreate 504,90,400,1,2001,0,##STDe-hachure-ns-4.0
+SymboleHatchCreate 201,45,10,1,2000,0,##STDe-hachure-sone-0.1
+SymboleHatchCreate 202,45,20,1,2000,0,##STDe-hachure-sone-0.2
+SymboleHatchCreate 203,45,30,1,2000,0,##STDe-hachure-sone-0.3
+SymboleHatchCreate 204,45,40,1,2000,0,##STDe-hachure-sone-0.4
+SymboleHatchCreate 205,45,50,1,2001,0,##STDe-hachure-sone-0.5
+SymboleHatchCreate 206,45,60,1,2001,0,##STDe-hachure-sone-0.6
+SymboleHatchCreate 207,45,70,1,2001,0,##STDe-hachure-sone-0.7
+SymboleHatchCreate 208,45,80,1,2001,40,##STDe-hachure-sone-0.8
+SymboleHatchCreate 210,45,100,1,2001,50,##STDe-hachure-sone-1.0
+SymboleHatchCreate 212,45,120,1,2001,60,##STDe-hachure-sone-1.2
+SymboleHatchCreate 215,45,150,1,2001,75,##STDe-hachure-sone-1.5
+SymboleHatchCreate 220,45,200,1,2001,100,##STDe-hachure-sone-2.0
+SymboleHatchCreate 225,45,250,1,2001,125,##STDe-hachure-sone-2.5
+SymboleHatchCreate 230,45,300,1,2001,150,##STDe-hachure-sone-3.0
+SymboleHatchCreate 240,45,400,1,2001,200,##STDe-hachure-sone-4.0
+SymboleHatchCreate 250,45,500,1,2001,250,##STDe-hachure-sone-5.0
+
+;Début des multiremplissages
+SymboleMultipleFillCreate 21,93,94,##21
+SymboleMultipleFillCreate 22,95,96,##22
+SymboleMultipleFillCreate 24,99,100,##24
+SymboleMultipleFillCreate 26,103,104,##26
+SymboleMultipleFillCreate 27,105,106,##27
+SymboleMultipleFillCreate 28,107,108,##28
+SymboleMultipleFillCreate 29,109,110,##29
+SymboleMultipleFillCreate 30,111,112,##30
+SymboleMultipleFillCreate 31,113,114,##31
+SymboleMultipleFillCreate 32,115,116,##32
+SymboleMultipleFillCreate 33,117,118,##33
+SymboleMultipleFillCreate 34,119,120,##34
+SymboleMultipleFillCreate 35,121,122,##35
+SymboleMultipleFillCreate 36,123,124,##36
+SymboleMultipleFillCreate 37,125,126,##37
+SymboleMultipleFillCreate 38,127,128,##38
+SymboleMultipleFillCreate 39,129,130,##39
+SymboleMultipleFillCreate 40,131,132,##40
+SymboleMultipleFillCreate 405,305,205,##405
+SymboleMultipleFillCreate 406,306,206,##406
+SymboleMultipleFillCreate 407,307,207,##407
+SymboleMultipleFillCreate 408,308,208,##408
+SymboleMultipleFillCreate 41,133,134,##41
+SymboleMultipleFillCreate 410,310,210,##410
+SymboleMultipleFillCreate 415,315,215,##415
+SymboleMultipleFillCreate 420,320,220,##420
+SymboleMultipleFillCreate 425,325,225,##425
+SymboleMultipleFillCreate 430,330,230,##430
+SymboleMultipleFillCreate 440,340,240,##440
+SymboleMultipleFillCreate 450,350,250,##450
+SymboleMultipleFillCreate 80,135,136,##80
+SymboleMultipleFillCreate 81,137,138,##81
+SymboleMultipleFillCreate 82,139,140,##82
+SymboleMultipleFillCreate 83,141,142,##83
+SymboleMultipleFillCreate 85,145,146,##85
+SymboleMultipleFillCreate 86,147,148,##86
+SymboleMultipleFillCreate 87,149,150,##87
+SymboleMultipleFillCreate 88,151,152,##88
+SymboleMultipleFillCreate 89,153,154,##89
+SymboleMultipleFillCreate 10201,10101,10102,##99990
+SymboleMultipleFillCreate 10202,10104,10105,##99991
+SymboleMultipleFillCreate 10203,1006,10103,##99992
+SymboleMultipleFillCreate 10208,1005,10101,10102,##99993
+SymboleMultipleFillCreate 10209,1005,10104,10105,##99994
+
+;Début des textes
+SymboleTextCreate 319,ARGB(255,0,0,0),-1,186,FONT(Arial,0,0,0,0),1,##SIG-CARTO10e-A-pt_niveau
+SymboleTextCreate 312,ARGB(255,0,0,0),-1,27900,FONT(Arial,0,0,0,0),3,##SIG-CARTO10t-A-bati-g
+SymboleTextCreate 318,ARGB(255,0,0,0),45000,74400,FONT(Arial,0,0,0,0),3,##SIG-CARTO10t-A-commune-m
+SymboleTextCreate 313,ARGB(255,0,0,0),30000,58400,FONT(Arial,0,0,0,0),3,##SIG-CARTO10t-A-commune-p
+SymboleTextCreate 314,ARGB(255,0,0,0),10000,18600,FONT(Arial,0,0,0,0),3,##SIG-CARTO10t-A-eau-m
+SymboleTextCreate 315,ARGB(255,0,0,0),25000,46800,FONT(Arial,0,0,0,0),3,##SIG-CARTO10t-A-lieu-g
+SymboleTextCreate 316,ARGB(255,0,0,0),20000,35100,FONT(Arial,0,0,0,0),3,##SIG-CARTO10t-A-lieu-m
+SymboleTextCreate 317,ARGB(255,0,0,0),9000,18600,FONT(Arial,0,1,0,0),3,##SIG-CARTO10t-A-lieu-p
+SymboleTextCreate 307,ARGB(255,0,0,0),10000,18600,FONT(Arial,0,0,0,0),3,##SIG-CARTO10t-A-place-m
+SymboleTextCreate 308,ARGB(255,0,0,0),6000,18600,FONT(Arial,0,0,0,0),3,##SIG-CARTO10t-A-place-p
+SymboleTextCreate 309,ARGB(255,0,0,0),6000,15800,FONT(Arial,0,0,0,0),3,##SIG-CARTO10t-A-place_cv-g
+SymboleTextCreate 310,ARGB(255,0,0,0),5500,14900,FONT(Arial,0,0,0,0),3,##SIG-CARTO10t-A-place_cv-m
+SymboleTextCreate 311,ARGB(255,0,0,0),5000,12100,FONT(Arial,0,0,0,0),3,##SIG-CARTO10t-A-place_cv-p
+SymboleTextCreate 301,ARGB(255,0,0,0),-1,27900,FONT(Arial,0,1,0,0),3,##SIG-CARTO10t-A-voie-g
+SymboleTextCreate 302,ARGB(255,0,0,0),-1,18600,FONT(Arial,0,1,0,0),3,##SIG-CARTO10t-A-voie-m
+SymboleTextCreate 303,ARGB(255,0,0,0),6500,18600,FONT(Arial,0,1,0,0),3,##SIG-CARTO10t-A-voie-p
+SymboleTextCreate 304,ARGB(255,0,0,0),-1,20900,FONT(Arial,0,1,0,0),3,##SIG-CARTO10t-A-voie_cv-g
+SymboleTextCreate 305,ARGB(255,0,0,0),5500,15300,FONT(Arial,0,1,0,0),3,##SIG-CARTO10t-A-voie_cv-m
+SymboleTextCreate 306,ARGB(255,0,0,0),4500,12500,FONT(Arial,0,1,0,0),3,##SIG-CARTO10t-A-voie_cv-p
+SymboleTextCreate 347,ARGB(255,0,0,0),-1,18600,FONT(Century Gothic,0,0,0,0),3,##SIG-CARTO10t-CG-pt_niveau
+SymboleTextCreate 335,ARGB(255,0,0,0),16900,27100,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-bati-g
+SymboleTextCreate 336,ARGB(255,0,0,0),10250,18100,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-bati-m
+SymboleTextCreate 337,ARGB(255,0,0,0),7220,18100,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-bati-p
+SymboleTextCreate 344,ARGB(255,0,0,0),57100,72300,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-commune-m
+SymboleTextCreate 346,ARGB(255,0,0,0),34000,56800,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-commune-p
+SymboleTextCreate 338,ARGB(255,0,0,0),-1,56800,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-eau-g
+SymboleTextCreate 339,ARGB(255,0,0,0),-1,18100,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-eau-m
+SymboleTextCreate 340,ARGB(255,0,0,0),-1,16000,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-eau-p
+SymboleTextCreate 341,ARGB(255,0,0,0),27600,45500,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-lieu-g
+SymboleTextCreate 342,ARGB(255,0,0,0),21000,34100,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-lieu-m
+SymboleTextCreate 343,ARGB(255,0,0,0),8850,18100,FONT(Verdana,0,1,0,0),3,##SIG-CARTO10t-V-lieu-p
+SymboleTextCreate 330,ARGB(255,0,0,0),10450,18100,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-place-m
+SymboleTextCreate 331,ARGB(255,0,0,0),6600,18100,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-place-p
+SymboleTextCreate 332,ARGB(255,0,0,0),6150,15300,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-place_cv-g
+SymboleTextCreate 333,ARGB(255,0,0,0),5330,14500,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-place_cv-m
+SymboleTextCreate 334,ARGB(255,0,0,0),4250,11800,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-place_cv-p
+SymboleTextCreate 345,ARGB(255,0,0,0),-1,18400,FONT(Verdana,0,0,0,0),3,##SIG-CARTO10t-V-pt_niveau
+SymboleTextCreate 322,ARGB(255,0,0,0),-1,27100,FONT(Verdana,0,1,0,0),3,##SIG-CARTO10t-V-voie-g
+SymboleTextCreate 323,ARGB(255,0,0,0),-1,18100,FONT(Verdana,0,1,0,0),3,##SIG-CARTO10t-V-voie-m
+SymboleTextCreate 324,ARGB(255,0,0,0),-1,16000,FONT(Verdana,0,1,0,0),3,##SIG-CARTO10t-V-voie-p
+SymboleTextCreate 325,ARGB(255,0,0,0),-1,20300,FONT(Verdana,0,1,0,0),3,##SIG-CARTO10t-V-voie_cv-g
+SymboleTextCreate 326,ARGB(255,0,0,0),-1,14900,FONT(Verdana,0,1,0,0),3,##SIG-CARTO10t-V-voie_cv-m
+SymboleTextCreate 327,ARGB(255,0,0,0),-1,12200,FONT(Verdana,0,1,0,0),3,##SIG-CARTO10t-V-voie_cv-p
+SymboleTextCreate 320,ARGB(255,0,0,0),-1,186,FONT(Arial,0,0,0,0),1,##SIG-PARCELe-A-num_parcel-3
+SymboleTextCreate 211,ARGB(255,0,0,0),-1,197,FONT(Times New Roman,0,1,0,0),1,##SIG-PARCELe-T-num_charge-3
+SymboleTextCreate 207,ARGB(255,0,0,0),-1,1400,FONT(Arial,0,1,0,0),3,##SIG-PARCELt-A-num_parcel-1
+SymboleTextCreate 208,ARGB(255,0,0,0),-1,2320,FONT(Arial,0,1,0,0),3,##SIG-PARCELt-A-num_parcel-2
+SymboleTextCreate 209,ARGB(255,0,0,0),-1,1480,FONT(Times New Roman,0,1,0,0),3,##SIG-PARCELt-T-num_charge-1
+SymboleTextCreate 210,ARGB(255,0,0,0),-1,2460,FONT(Times New Roman,0,1,0,0),3,##SIG-PARCELt-T-num_charge-2
+SymboleTextCreate 206,ARGB(255,0,0,0),-1,151,FONT(Arial,0,0,0,0),1,##SIG-TOPOe-A-adresse_postale
+SymboleTextCreate 204,ARGB(255,0,0,0),-1,189,FONT(Arial,0,1,0,0),1,##SIG-TOPOe-A-denom_bati
+SymboleTextCreate 202,ARGB(255,0,0,0),-1,189,FONT(Arial,0,0,0,0),1,##SIG-TOPOe-A-denom_voirie
+SymboleTextCreate 195,ARGB(255,0,0,0),-1,151,FONT(Arial,0,0,0,0),1,##SIG-TOPOe-A-nom_voie-g
+SymboleTextCreate 193,ARGB(255,0,0,0),-1,112,FONT(Arial,0,0,0,0),1,##SIG-TOPOe-A-nom_voie-m
+SymboleTextCreate 191,ARGB(255,0,0,0),-1,93,FONT(Arial,0,0,0,0),1,##SIG-TOPOe-A-nom_voie-p
+SymboleTextCreate 205,ARGB(255,0,0,0),-1,1810,FONT(Arial,0,0,0,0),3,##SIG-TOPOt-A-adresse_postale
+SymboleTextCreate 203,ARGB(255,0,0,0),-1,2340,FONT(Arial,0,1,0,0),3,##SIG-TOPOt-A-denom_bati
+SymboleTextCreate 201,ARGB(255,0,0,0),-1,2340,FONT(Arial,0,0,0,0),3,##SIG-TOPOt-A-denom_voirie
+SymboleTextCreate 194,ARGB(255,0,0,0),-1,4380,FONT(Arial,0,0,0,0),3,##SIG-TOPOt-A-nom_voie-g
+SymboleTextCreate 192,ARGB(255,0,0,0),-1,2920,FONT(Arial,0,0,0,0),3,##SIG-TOPOt-A-nom_voie-m
+SymboleTextCreate 190,ARGB(255,0,0,0),-1,1950,FONT(Arial,0,0,0,0),3,##SIG-TOPOt-A-nom_voie-p
+SymboleTextCreate 221,ARGB(255,0,0,0),-1,140,FONT(Arial,0,0,0,0),1,##STDe-Arial-01.4
+SymboleTextCreate 222,ARGB(255,0,0,0),-1,160,FONT(Arial,0,0,0,0),1,##STDe-Arial-01.6
+SymboleTextCreate 223,ARGB(255,0,0,0),-1,180,FONT(Arial,0,0,0,0),1,##STDe-Arial-01.8
+SymboleTextCreate 224,ARGB(255,0,0,0),-1,200,FONT(Arial,0,0,0,0),1,##STDe-Arial-02.0
+SymboleTextCreate 225,ARGB(255,0,0,0),-1,220,FONT(Arial,0,0,0,0),1,##STDe-Arial-02.2
+SymboleTextCreate 226,ARGB(255,0,0,0),-1,240,FONT(Arial,0,0,0,0),1,##STDe-Arial-02.4
+SymboleTextCreate 227,ARGB(255,0,0,0),-1,260,FONT(Arial,0,0,0,0),1,##STDe-Arial-02.6
+SymboleTextCreate 228,ARGB(255,0,0,0),-1,280,FONT(Arial,0,0,0,0),1,##STDe-Arial-02.8
+SymboleTextCreate 229,ARGB(255,0,0,0),-1,300,FONT(Arial,0,0,0,0),1,##STDe-Arial-03.0
+SymboleTextCreate 230,ARGB(255,0,0,0),-1,350,FONT(Arial,0,0,0,0),1,##STDe-Arial-03.5
+SymboleTextCreate 231,ARGB(255,0,0,0),-1,400,FONT(Arial,0,0,0,0),1,##STDe-Arial-04.0
+SymboleTextCreate 232,ARGB(255,0,0,0),-1,450,FONT(Arial,0,0,0,0),1,##STDe-Arial-04.5
+SymboleTextCreate 233,ARGB(255,0,0,0),-1,500,FONT(Arial,0,0,0,0),1,##STDe-Arial-05.0
+SymboleTextCreate 353,ARGB(255,0,0,0),-1,550,FONT(Arial,0,0,0,0),1,##STDe-Arial-05.5
+SymboleTextCreate 234,ARGB(255,0,0,0),-1,600,FONT(Arial,0,0,0,0),1,##STDe-Arial-06.0
+SymboleTextCreate 235,ARGB(255,0,0,0),-1,700,FONT(Arial,0,0,0,0),1,##STDe-Arial-07.0
+SymboleTextCreate 236,ARGB(255,0,0,0),-1,800,FONT(Arial,0,0,0,0),1,##STDe-Arial-08.0
+SymboleTextCreate 349,ARGB(255,0,0,0),-1,900,FONT(Arial,0,0,0,0),1,##STDe-Arial-09.0
+SymboleTextCreate 237,ARGB(255,0,0,0),-1,1000,FONT(Arial,0,0,0,0),1,##STDe-Arial-10.0
+SymboleTextCreate 238,ARGB(255,0,0,0),-1,1200,FONT(Arial,0,0,0,0),1,##STDe-Arial-12.0
+SymboleTextCreate 328,ARGB(255,0,0,0),-1,1400,FONT(Arial,0,0,0,0),1,##STDe-Arial-14.0
+SymboleTextCreate 250,ARGB(255,0,0,0),-1,400,FONT(Arial,0,0,0,0),3,##STDt-Arial-0.4
+SymboleTextCreate 251,ARGB(255,0,0,0),-1,500,FONT(Arial,0,0,0,0),3,##STDt-Arial-0.5
+SymboleTextCreate 252,ARGB(255,0,0,0),-1,600,FONT(Arial,0,0,0,0),3,##STDt-Arial-0.6
+SymboleTextCreate 253,ARGB(255,0,0,0),-1,700,FONT(Arial,0,0,0,0),3,##STDt-Arial-0.7
+SymboleTextCreate 254,ARGB(255,0,0,0),-1,800,FONT(Arial,0,0,0,0),3,##STDt-Arial-0.8
+SymboleTextCreate 329,ARGB(255,0,0,0),-1,900,FONT(Arial,0,0,0,0),3,##STDt-Arial-0.9
+SymboleTextCreate 255,ARGB(255,0,0,0),-1,1000,FONT(Arial,0,0,0,0),3,##STDt-Arial-1.0
+SymboleTextCreate 350,ARGB(255,0,0,0),-1,1100,FONT(Arial,0,0,0,0),3,##STDt-Arial-1.1
+SymboleTextCreate 256,ARGB(255,0,0,0),-1,1200,FONT(Arial,0,0,0,0),3,##STDt-Arial-1.2
+SymboleTextCreate 351,ARGB(255,0,0,0),-1,1300,FONT(Arial,0,0,0,0),3,##STDt-Arial-1.3
+SymboleTextCreate 257,ARGB(255,0,0,0),-1,1400,FONT(Arial,0,0,0,0),3,##STDt-Arial-1.4
+SymboleTextCreate 352,ARGB(255,0,0,0),-1,1500,FONT(Arial,0,0,0,0),3,##STDt-Arial-1.5
+SymboleTextCreate 258,ARGB(255,0,0,0),-1,1600,FONT(Arial,0,0,0,0),3,##STDt-Arial-1.6
+SymboleTextCreate 259,ARGB(255,0,0,0),-1,1800,FONT(Arial,0,0,0,0),3,##STDt-Arial-1.8
+SymboleTextCreate 260,ARGB(255,0,0,0),-1,2000,FONT(Arial,0,0,0,0),3,##STDt-Arial-2.0
+SymboleTextCreate 354,ARGB(255,0,0,0),-1,4000,FONT(Arial,0,0,0,0),3,##STDt-Arial-4.0
+
+;Famille:SIGNALISATION
+
+;Début des marqueurs
+#REGARD TAMPON
+Marker 342,HS1.wmf, 50.000000%, 50.000000%,##HS1/SIGNALISATION
+#ARMOIRE
+Marker 343,HS2.wmf, 50.000000%, 49.997808%,##HS2/SIGNALISATION
+#TRAPPE A VANTAUX
+Marker 344,HS3.wmf, 50.000000%, 49.998678%,##HS3/SIGNALISATION
+#BALISE
+Marker 345,HS4.wmf, 50.000000%, 50.000000%,##HS4/SIGNALISATION
+#BORNE LUMINEUSE
+Marker 346,HS5.wmf, 50.000000%, 49.998070%,##HS5/SIGNALISATION
+#CRAPAUD LUMINEUX
+Marker 347,HL6.wmf, 50.000000%, 49.998678%,##HS6/SIGNALISATION
+#FEU
+Marker 348,HS7.wmf, 49.993584%, 50.000000%,##HS7/SIGNALISATION
+#PANNEAU
+Marker 350,HS8.wmf, 50.000000%, 49.997388%,##HS8/SIGNALISATION
+#PORTIQUE
+Marker 351,HS9.wmf, 50.000000%, 49.998678%,##HS9/SIGNALISATION
+#POTEAU D'INDICATION
+Marker 353,HSA.wmf, 50.000000%, 49.998678%,##HSA/SIGNALISATION
+#SUPPORT DE CAMERA
+Marker 352,HSB.wmf, 50.000000%, 49.996930%,##HSB/SIGNALISATION
+#PORTIQUE
+Marker 354,HSC.wmf, 50.000000%, 49.997373%,##HSC/SIGNALISATION
+#POTEAU D'INDICATION
+Marker 355,HSD.wmf, 49.998177%, 49.998170%,##HSD/SIGNALISATION
+#PANNEAU
+Marker 356,HSE.wmf, 50.000000%, 49.998678%,##HSE/SIGNALISATION
+#FEU
+Marker 357,HSF.wmf, 50.000000%, 49.998678%,##HSF/SIGNALISATION
+#REGARD TAMPON
+Marker 349,HSQ.wmf, 50.000000%, 49.998678%,##HSQ/SIGNALISATION
+
+;Famille:MOBILIER_DE_VOIRIE
+
+;Début des marqueurs
+#PODOTACTILE
+Marker 393,HN2.wmf, 50.000000%, 49.998678%,##HN2/MOBILIER_DE_VOIRIE
+#ESCALIER
+Marker 394,HV0.wmf, 50.000000%, 49.998678%,##HV0/MOBILIER_DE_VOIRIE
+#TRAPPE DE CAVE
+Marker 395,HV1.wmf, 50.000000%, 49.998672%,##HV1/MOBILIER_DE_VOIRIE
+#ABRI
+Marker 396,HV2.wmf, 50.000000%, 49.998678%,##HV2/MOBILIER_DE_VOIRIE
+#MONUMENT
+Marker 397,HV3.wmf, 50.000000%, 49.998678%,##HV3/MOBILIER_DE_VOIRIE
+#BANC PUBLIC
+Marker 398,HV4.wmf, 50.000000%, 49.998678%,##HV4/MOBILIER_DE_VOIRIE
+#POTEAU
+Marker 399,HV5.wmf, 50.000000%, 49.998678%,##HV5/MOBILIER_DE_VOIRIE
+#GRILLE
+Marker 400,HV6.wmf, 50.000000%, 49.998678%,##HV6/MOBILIER_DE_VOIRIE
+#PILASTRE
+Marker 401,HV8.wmf, 50.000000%, 49.998678%,##HV8/MOBILIER_DE_VOIRIE
+#BOITE A LETTRES
+Marker 402,HV9.wmf, 50.000000%, 49.998678%,##HV9/MOBILIER_DE_VOIRIE
+#boites a lettres (ponctuel)
+Marker 403,HVA.wmf, 49.998677%, 49.998672%,##HVA/MOBILIER_DE_VOIRIE
+#pompe a essence (ponctuel)
+Marker 405,HVB.wmf, 50.000000%, 49.998678%,##HVB/MOBILIER_DE_VOIRIE
+#POMPE A ESSENCE
+Marker 404,HVC.wmf, 50.000000%, 49.998672%,##HVC/MOBILIER_DE_VOIRIE
+#pilier de pont (ponctuel)
+Marker 406,HVD.wmf, 50.000000%, 49.998668%,##HVD/MOBILIER_DE_VOIRIE
+#PILIER DE PONT
+Marker 407,HVE.wmf, 50.000000%, 49.998678%,##HVE/MOBILIER_DE_VOIRIE
+#BORNE TELEPHONIQUE
+Marker 408,HVF.wmf, 50.000000%, 49.998678%,##HVF/MOBILIER_DE_VOIRIE
+#ARBRE
+Marker 409,HVG.wmf, 50.000000%, 49.998678%,##HVG/MOBILIER_DE_VOIRIE
+#ARBRE
+Marker 410,HVH.wmf, 50.000000%, 49.998678%,##HVH/MOBILIER_DE_VOIRIE
+#BALISE
+Marker 411,HVI.wmf, 50.000000%, 50.000000%,##HVI/MOBILIER_DE_VOIRIE
+#BORNE COMMUNALE
+Marker 412,HVJ.wmf, 50.000000%, 49.997787%,##HVJ/MOBILIER_DE_VOIRIE
+#BORNE TELEPHONIQUE (PONCTUEL)
+Marker 413,HVK.wmf, 50.000000%, 49.997787%,##HVK/MOBILIER_DE_VOIRIE
+#PILASTRE CIRCULAIRE
+Marker 414,HVL.wmf, 49.997808%, 49.997808%,##HVL/MOBILIER_DE_VOIRIE
+#BORNE KILOMETRIQUE
+Marker 415,HVM.wmf, 50.000000%, 49.998678%,##HVM/MOBILIER_DE_VOIRIE
+#CORBEILLE A PAPIER
+Marker 416,HVN.wmf, 50.000000%, 50.000000%,##HVN/MOBILIER_DE_VOIRIE
+#DOUILLE DE MAT
+Marker 417,HVO.wmf, 50.000000%, 49.996489%,##HVO/MOBILIER_DE_VOIRIE
+#PLOT 18 CM
+Marker 418,HVP.wmf, 50.000000%, 49.994952%,##HVP/MOBILIER_DE_VOIRIE
+#PLOT 40 CM
+Marker 419,HVQ.wmf, 50.000000%, 49.994952%,##HVQ/MOBILIER_DE_VOIRIE
+#HORODATEUR
+Marker 420,HVR.wmf, 50.000000%, 49.998678%,##HVR/MOBILIER_DE_VOIRIE
+#POTEAU
+Marker 421,HVS.wmf, 50.000000%, 49.996724%,##HVS/MOBILIER_DE_VOIRIE
+#SUPPORT D'INFORMATION
+Marker 422,HVT.wmf, 50.000000%, 49.998678%,##HVT/MOBILIER_DE_VOIRIE
+#SUPPORT D'INFORMATION
+Marker 423,HVU.wmf, 50.000000%, 49.998672%,##HVU/MOBILIER_DE_VOIRIE
+#OBJET RECTANGULAIRE
+Marker 424,HVV.wmf, 50.000000%, 49.998678%,##HVV/MOBILIER_DE_VOIRIE
+#BASSIN
+Marker 425,HVW.wmf, 50.000000%, 49.998678%,##HVW/MOBILIER_DE_VOIRIE
+#ARCEAUX VELOS
+Marker 426,HVZ.wmf, 50.000000%, 49.998678%,##HVZ/MOBILIER_DE_VOIRIE
+
+;Famille:CHAUFFAGE
+
+;Début des marqueurs
+#CERCLE
+Marker 271,HC1.wmf, 50.000000%, 49.998678%,##HC1/CHAUFFAGE
+#TRAPPE A VANTAUX
+Marker 273,HC3.wmf, 50.000000%, 49.998678%,##HC3/CHAUFFAGE
+#REGARD TAMPON
+Marker 274,HCQ.wmf, 50.000000%, 49.998678%,##HCQ/CHAUFFAGE
+#BITTE D'AMARRAGE
+Marker 392,HN1.wmf, 50.000000%, 49.996489%,##HN1/CHAUFFAGE
+
+;Famille:TELEDISTRIBUTION
+
+;Début des marqueurs
+#REGARD TAMPON
+Marker 275,HD1.wmf, 50.000000%, 50.000000%,##HD1/TELEDISTRIBUTION
+#ARMOIRE
+Marker 277,HD2.wmf, 50.000000%, 49.997808%,##HD2/TELEDISTRIBUTION
+#TRAPPE A VANTAUX
+Marker 278,HD3.wmf, 50.000000%, 49.998678%,##HD3/TELEDISTRIBUTION
+#ANTENNE
+Marker 279,HD4.wmf, 50.000000%, 49.998678%,##HD4/TELEDISTRIBUTION
+#BORNE
+Marker 280,HD5.wmf, 50.000000%, 50.000000%,##HD5/TELEDISTRIBUTION
+#ANTENNE
+Marker 281,HD6.wmf, 50.000000%, 49.998662%,##HD6/TELEDISTRIBUTION
+#REGARD TAMPON
+Marker 282,HDQ.wmf, 50.000000%, 49.998678%,##HDQ/TELEDISTRIBUTION
+#RECTANGLE
+Marker 303,HI0.wmf, 50.000000%, 49.998678%,##HI0/TELEDISTRIBUTION
+
+;Famille:CARTO
+
+;Début des marqueurs
+Marker 242,AI_arbre_isolé.wmf, 49.998681%, 49.998683%,##AI_arbre_isolé/CARTO
+Marker 434,BOessais1.wmf, 49.998221%, 49.797571%,##CARTO_BO_bordure/CARTO
+Marker 243,CARTO_PY_pylone.wmf, 50.000000%, 50.000000%,##CARTO_PY_pylone/CARTO
+
+;Début des remplissages
+StyleFillCreate 10371,0,ARGB(255,234,22,30),1,##BT_bati/CARTO
+StyleFillCreate 10410,0,ARGB(255,186,186,186),1,##CI_cimetiere/CARTO
+StyleFillCreate 10374,0,ARGB(255,114,114,114),1,##CM_cimetiere_militaire/CARTO
+StyleFillCreate 10370,0,ARGB(255,252,230,212),1,##DT_bati_leger/CARTO
+StyleFillCreate 10372,0,ARGB(255,26,170,66),1,##EB_espace_boise/CARTO
+StyleFillCreate 10375,0,ARGB(255,165,213,226),1,##EG_etendue_d_eau/CARTO
+StyleFillCreate 10373,0,ARGB(255,255,102,255),1,##EP_edifice_public/CARTO
+StyleFillCreate 10376,0,ARGB(255,157,89,202),1,##ER_edifice_religieux/CARTO
+StyleFillCreate 10390,0,ARGB(255,193,242,119),1,##EV_espace_vert/CARTO
+StyleFillCreate 10382,0,ARGB(255,255,255,174),1,##IL_ilot/CARTO
+StyleFillCreate 10377,0,ARGB(255,226,238,210),1,##TS_terrain_de_sport/CARTO
+
+;Début des multiremplissages
+SymboleMultipleFillCreate 10379,10378,10380,##CARTO_CI_cimetiere/CARTO
+
+;Famille:GAZ
+
+;Début des marqueurs
+#REGARD TAMPON
+Marker 294,HG1.wmf, 50.000000%, 50.000000%,##HG1/GAZ
+#ARMOIRE
+Marker 295,HG2.wmf, 50.000000%, 49.997808%,##HG2/GAZ
+#EVENT
+Marker 296,HG3.wmf, 50.000000%, 49.998293%,##HG3/GAZ
+#AFFLEUREMENT
+Marker 297,HG4.wmf, 50.000000%, 49.998678%,##HG4/GAZ
+#BOITIER
+Marker 298,HG5.wmf, 50.000000%, 49.998678%,##HG5/GAZ
+#GRILLE
+Marker 299,HG6.wmf, 50.000000%, 49.998678%,##HG6/GAZ
+#BOUCHE A CLE
+Marker 300,HG7.wmf, 50.000000%, 49.998662%,##HG7/GAZ
+#REPERE
+Marker 301,HG9.wmf, 50.000000%, 49.998678%,##HG9/GAZ
+#REGARD TAMPON
+Marker 302,HGQ.wmf, 50.000000%, 49.998678%,##HGQ/GAZ
+
+;Famille:TRANSPORT_URBAIN
+
+;Début des marqueurs
+#FOSSE DE COMMANDE
+Marker 382,HU0.wmf, 50.000000%, 49.998678%,##HU0/TRANSPORT_URBAIN
+#ABRIBUS
+Marker 383,HU1.wmf, 50.000000%, 49.998678%,##HU1/TRANSPORT_URBAIN
+#TRAPPE A VANTAUX
+Marker 384,HU3.wmf, 50.000000%, 49.998678%,##HU3/TRANSPORT_URBAIN
+#POTEAU INDICATEUR
+Marker 391,HU5.wmf, 50.000000%, 49.998678%,##HU5/TRANSPORT_URBAIN
+#POTEAU
+Marker 385,HU6.wmf, 50.000000%, 49.998356%,##HU6/TRANSPORT_URBAIN
+#POTEAU SNCF
+Marker 386,HU7.wmf, 50.000000%, 49.998678%,##HU7/TRANSPORT_URBAIN
+#REPERE
+Marker 387,HU8.wmf, 50.000000%, 49.998678%,##HU8/TRANSPORT_URBAIN
+#BORNE VISTA
+Marker 388,HU9.wmf, 50.000000%, 49.998678%,##HU9/TRANSPORT_URBAIN
+#TERMINAL DE PAIEMENT
+Marker 389,HUT.wmf, 50.000000%, 49.998678%,##HUT/TRANSPORT_URBAIN
+#VLILLE
+Marker 390,HUV.wmf, 50.000000%, 49.998678%,##HUV/TRANSPORT_URBAIN
+
+;Famille:ECLAIRAGE_PUBLIC
+
+;Début des marqueurs
+#REGARD TAMPON
+Marker 328,HL1.wmf, 50.000000%, 50.000000%,##HL1/ECLAIRAGE_PUBLIC
+#ARMOIRE
+Marker 329,HL2.wmf, 50.000000%, 49.997808%,##HL2/ECLAIRAGE_PUBLIC
+#TRAPPE A VANTAUX
+Marker 330,HL3.wmf, 50.000000%, 49.998678%,##HL3/ECLAIRAGE_PUBLIC
+#LANTERNE SUR FACADE
+Marker 331,HL4.wmf, 49.997848%, 50.000000%,##HL4/ECLAIRAGE_PUBLIC
+#LANTERNE SUR POTEAU
+Marker 332,HL5.wmf, 50.000000%, 49.998678%,##HL5/ECLAIRAGE_PUBLIC
+#LUMINAIRE
+Marker 333,HL6.wmf, 50.000000%, 49.998678%,##HL6/ECLAIRAGE_PUBLIC
+#PROJECTEUR
+Marker 334,HL7.wmf, 50.000000%, 49.998678%,##HL7/ECLAIRAGE_PUBLIC
+#LANTERNE SUR POTEAU
+Marker 335,HL8.wmf, 49.997848%, 50.000000%,##HL8/ECLAIRAGE_PUBLIC
+#LUMINAIRE
+Marker 336,HL9.wmf, 50.000000%, 49.998070%,##HL9/ECLAIRAGE_PUBLIC
+#REGARD TAMPON
+Marker 337,HLQ.wmf, 50.000000%, 49.998678%,##HLQ/ECLAIRAGE_PUBLIC
