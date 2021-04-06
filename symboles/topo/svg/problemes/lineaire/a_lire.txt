@@ -1,0 +1,3 @@
+les styles linéaires sont utilisés pour générer une charte graphique en pdf depuis un fichier excely
+
+ils ne sont pas utilisés dans les applications

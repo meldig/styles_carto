@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11.2889mm" height="11.2889mm"
+ viewBox="0 0 32 32"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>Generated with Qt</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#232323" stroke-opacity="1" stroke-width="0.850394" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M7.37008,16 L-7.37008,16"/>
+<path vector-effect="none" fill-rule="evenodd" d="M23.811,16 L9.07087,16"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="0.566929" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M9.92126,16.2835 C9.92126,17.0662 9.2867,17.7008 8.50394,17.7008 C7.72117,17.7008 7.08661,17.0662 7.08661,16.2835 C7.08661,15.5007 7.72117,14.8661 8.50394,14.8661 C9.2867,14.8661 9.92126,15.5007 9.92126,16.2835 "/>
+<path vector-effect="none" fill-rule="evenodd" d="M25.7953,16.2835 C25.7953,17.0662 25.1607,17.7008 24.378,17.7008 C23.5952,17.7008 22.9606,17.0662 22.9606,16.2835 C22.9606,15.5007 23.5952,14.8661 24.378,14.8661 C25.1607,14.8661 25.7953,15.5007 25.7953,16.2835 "/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="MS Shell Dlg 2" font-size="8.25" font-weight="400" font-style="normal" 
+>
+</g>
+</g>
+</svg>
