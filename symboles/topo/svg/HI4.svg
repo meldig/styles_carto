@@ -7,11 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="HI4.wmf"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.0"
+   width="283.3511mm"
+   height="283.3511mm"
    id="svg632"
-   height="294.07556mm"
-   width="294.07556mm"
-   version="1.0">
+   sodipodi:docname="HI4.svg">
   <metadata
      id="metadata636">
     <rdf:RDF>
@@ -20,38 +21,51 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     id="namedview634"
-     inkscape:window-height="480"
-     inkscape:window-width="640"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     inkscape:document-rotation="0"
+     inkscape:current-layer="svg632"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="535.53335"
+     inkscape:cx="535.53335"
+     inkscape:zoom="0.87272071"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     id="namedview634" />
   <defs
      id="defs626">
     <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
+       id="WMFhbasepattern"
        patternUnits="userSpaceOnUse"
-       id="WMFhbasepattern" />
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
   </defs>
   <path
-     id="path628"
-     d="  M 1089,1089   L 1089,22.333333   L 22.333333,22.333333   L 22.333333,1089  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1068.8,1068.8 V 2.1333334 H 2.1333334 V 1068.8 Z"
+     id="path628" />
   <path
-     id="path630"
-     d="  M 23.4,23.4   L 1089,1086.8667  "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 3.2000004,3.2000004 1068.8,1066.6667"
+     id="path630" />
 </svg>

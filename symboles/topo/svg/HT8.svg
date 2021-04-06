@@ -7,11 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="HT8.wmf"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.0"
+   width="283.3511mm"
+   height="283.3511mm"
    id="svg1503"
-   height="294.07556mm"
-   width="294.07556mm"
-   version="1.0">
+   sodipodi:docname="HT8.svg">
   <metadata
      id="metadata1507">
     <rdf:RDF>
@@ -20,42 +21,58 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     id="namedview1505"
-     inkscape:window-height="480"
-     inkscape:window-width="640"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     inkscape:document-rotation="0"
+     inkscape:current-layer="svg1503"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="535.53335"
+     inkscape:cx="535.53335"
+     inkscape:zoom="0.87272071"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     id="namedview1505" />
   <defs
      id="defs1495">
     <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
+       id="WMFhbasepattern"
        patternUnits="userSpaceOnUse"
-       id="WMFhbasepattern" />
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
   </defs>
   <path
-     id="path1497"
-     d="  M 1089,1089   L 1089,22.333333   L 22.333333,22.333333   L 22.333333,1089  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1068.8,1068.8 V 2.1333334 H 2.1333334 V 1068.8 Z"
+     id="path1497" />
   <path
-     id="path1499"
-     d="  M 653.8,657   L 673,633.53333   L 686.86667,606.86667   L 695.4,577   L 696.46667,546.06667   L 692.2,516.2   L 681.53333,487.4   L 664.46667,461.8   L 643.13333,440.46667   L 617.53333,423.4   L 588.73333,411.66667   L 558.86667,407.4   L 527.93333,408.46667   L 499.13333,417   L 471.4,430.86667   L 446.86667,449   L 427.66667,473.53333   L 413.8,500.2   L 406.33333,530.06667   L 404.2,561   L 408.46667,590.86667   L 420.2,619.66667   L 436.2,645.26667   L 457.53333,666.6   L 483.13333,683.66667   L 511.93333,694.33333   L 541.8,699.66667   L 572.73333,698.6   L 602.6,690.06667   L 630.33333,676.2  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
-  <path
-     id="path1501"
-     d="  M 554.6,767.93333   L 557.8,346.6  "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     style="fill:none;stroke:#000000;stroke-width:1.898;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 538.6949,751.45933 0.33941,-426.49364"
+     id="path1501" />
+  <ellipse
+     ry="147.10393"
+     rx="158.10777"
+     cy="516.50861"
+     cx="537.82501"
+     id="path833"
+     style="fill:none;stroke:#000000;stroke-width:3.42584" />
 </svg>

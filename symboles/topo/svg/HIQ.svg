@@ -7,11 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="HIQ.wmf"
+   sodipodi:docname="HIQ.svg"
    id="svg786"
-   height="294.07556mm"
-   width="294.07556mm"
-   version="1.0">
+   height="283.3511mm"
+   width="283.3511mm"
+   version="1.0"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata790">
     <rdf:RDF>
@@ -20,13 +21,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
      id="namedview788"
-     inkscape:window-height="480"
-     inkscape:window-width="640"
+     inkscape:window-height="1137"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -35,7 +41,15 @@
      borderopacity="1"
      inkscape:document-rotation="0"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     showgrid="false"
+     inkscape:zoom="0.87272071"
+     inkscape:cx="535.53334"
+     inkscape:cy="535.53334"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg786" />
   <defs
      id="defs780">
     <pattern
@@ -48,10 +62,12 @@
   </defs>
   <path
      id="path782"
-     d="  M 1089,1089   L 1089,22.333333   L 22.333333,22.333333   L 22.333333,1089  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
-  <path
-     id="path784"
-     d="  M 984.46667,558.86667   L 975.93333,470.33333   L 948.2,385   L 903.4,308.2   L 843.66667,241   L 771.13333,188.73333   L 689,152.46667   L 601.53333,133.26667   L 511.93333,133.26667   L 424.46667,152.46667   L 342.33333,188.73333   L 269.8,241   L 210.06667,308.2   L 165.26667,385   L 137.53333,470.33333   L 127.93333,558.86667   L 137.53333,648.46667   L 165.26667,733.8   L 210.06667,810.6   L 269.8,877.8   L 342.33333,930.06667   L 424.46667,966.33333   L 511.93333,985.53333   L 601.53333,985.53333   L 689,966.33333   L 771.13333,930.06667   L 843.66667,877.8   L 903.4,810.6   L 948.2,733.8   L 975.93333,648.46667  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     d="M 1068.8,1068.8 V 2.1333334 H 2.1333334 V 1068.8 Z"
+     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     style="fill:none;stroke:#000000;stroke-width:3.389"
+     id="path832"
+     cx="540.1167"
+     cy="549.28339"
+     r="420.52399" />
 </svg>

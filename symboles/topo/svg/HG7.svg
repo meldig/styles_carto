@@ -7,11 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="HG7.wmf"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.0"
+   width="279.02841mm"
+   height="279.02841mm"
    id="svg545"
-   height="290.40666mm"
-   width="291.81778mm"
-   version="1.0">
+   sodipodi:docname="HG7.svg">
   <metadata
      id="metadata549">
     <rdf:RDF>
@@ -20,38 +21,54 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     id="namedview547"
-     inkscape:window-height="480"
-     inkscape:window-width="640"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     inkscape:document-rotation="0"
+     inkscape:current-layer="svg545"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="532.38973"
+     inkscape:cx="533.9249"
+     inkscape:zoom="1.1575153"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     id="namedview547" />
   <defs
      id="defs539">
     <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
+       id="WMFhbasepattern"
        patternUnits="userSpaceOnUse"
-       id="WMFhbasepattern" />
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
   </defs>
   <path
-     id="path541"
-     d="  M 22.333333,549.26667   L 33,439.4   L 67.133333,334.86667   L 122.6,238.86667   L 196.2,156.73333   L 285.8,90.6   L 386.06667,45.8   L 494.86667,22.333333   L 604.73333,22.333333   L 713.53333,44.733333   L 814.86667,89.533333   L 904.46667,154.6   L 978.06667,236.73333   L 1033.5333,332.73333   L 1067.6667,437.26667   L 1080.4667,548.2   L 1068.7333,658.06667   L 1034.6,762.6   L 979.13333,858.6   L 905.53333,940.73333   L 815.93333,1006.8667   L 715.66667,1051.6667   L 606.86667,1075.1333   L 497,1075.1333   L 388.2,1052.7333   L 286.86667,1007.9333   L 197.26667,942.86667   L 123.66667,860.73333   L 68.2,764.73333   L 34.066667,660.2  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
-  <path
-     id="path543"
-     d="  M 182.33333,920.46667   L 925.8,179.13333  "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     sodipodi:nodetypes="cc"
+     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 164.79156,904.05643 904.80255,166.17877"
+     id="path543" />
+  <circle
+     r="525.60327"
+     cy="527.29779"
+     cx="527.29779"
+     id="path832"
+     style="fill:none;stroke:#000000;stroke-width:3.389" />
 </svg>

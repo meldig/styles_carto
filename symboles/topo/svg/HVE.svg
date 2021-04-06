@@ -7,11 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="HVE.wmf"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.0"
+   width="283.3511mm"
+   height="283.3511mm"
    id="svg1981"
-   height="294.07556mm"
-   width="294.07556mm"
-   version="1.0">
+   sodipodi:docname="HVE.svg">
   <metadata
      id="metadata1985">
     <rdf:RDF>
@@ -20,42 +21,60 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     id="namedview1983"
-     inkscape:window-height="480"
-     inkscape:window-width="640"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     inkscape:document-rotation="0"
+     inkscape:current-layer="svg1981"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="535.53335"
+     inkscape:cx="535.53335"
+     inkscape:zoom="0.87272071"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     id="namedview1983" />
   <defs
      id="defs1973">
     <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
+       id="WMFhbasepattern"
        patternUnits="userSpaceOnUse"
-       id="WMFhbasepattern" />
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
   </defs>
   <path
-     id="path1975"
-     d="  M 1089,1089   L 1089,22.333333   L 22.333333,22.333333   L 22.333333,1089  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
-  <path
-     id="path1977"
-     d="  M 754.06667,554.6   L 749.8,514.06667   L 737,474.6   L 716.73333,438.33333   L 687.93333,407.4   L 654.86667,382.86667   L 616.46667,365.8   L 575.93333,357.26667   L 534.33333,358.33333   L 493.8,366.86667   L 455.4,383.93333   L 422.33333,408.46667   L 394.6,439.4   L 373.26667,475.66667   L 360.46667,515.13333   L 356.2,556.73333   L 361.53333,597.26667   L 374.33333,636.73333   L 394.6,673   L 423.4,703.93333   L 456.46667,728.46667   L 494.86667,745.53333   L 535.4,754.06667   L 577,753   L 617.53333,744.46667   L 655.93333,727.4   L 689,702.86667   L 716.73333,671.93333   L 738.06667,635.66667   L 750.86667,596.2  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
-  <path
-     id="path1979"
-     d="  M 553.53333,449   L 532.2,452.2   L 510.86667,459.66667   L 491.66667,470.33333   L 474.6,485.26667   L 461.8,504.46667   L 453.26667,524.73333   L 447.93333,546.06667   L 449,568.46667   L 453.26667,590.86667   L 462.86667,611.13333   L 475.66667,629.26667   L 492.73333,644.2   L 513,654.86667   L 534.33333,662.33333   L 555.66667,663.4   L 578.06667,661.26667   L 599.4,653.8   L 618.6,643.13333   L 635.66667,628.2   L 648.46667,609   L 657,588.73333   L 662.33333,567.4   L 661.26667,545   L 657,522.6   L 647.4,502.33333   L 634.6,484.2   L 617.53333,469.26667   L 597.26667,458.6   L 575.93333,451.13333  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1068.8,1068.8 V 2.1333334 H 2.1333334 V 1068.8 Z"
+     id="path1975" />
+  <ellipse
+     ry="197.65773"
+     rx="201.09526"
+     cy="532.6687"
+     cx="545.27301"
+     id="path833"
+     style="fill:none;stroke:#000000;stroke-width:3.389" />
+  <circle
+     r="107.70914"
+     cy="536.6792"
+     cx="541.26251"
+     id="path835"
+     style="fill:none;stroke:#000000;stroke-width:3.389" />
 </svg>

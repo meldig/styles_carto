@@ -7,11 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="HVG.wmf"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.0"
+   width="283.3511mm"
+   height="283.3511mm"
    id="svg2011"
-   height="294.07556mm"
-   width="294.07556mm"
-   version="1.0">
+   sodipodi:docname="HVG.svg">
   <metadata
      id="metadata2015">
     <rdf:RDF>
@@ -20,38 +21,51 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     id="namedview2013"
-     inkscape:window-height="480"
-     inkscape:window-width="640"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     inkscape:document-rotation="0"
+     inkscape:current-layer="svg2011"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="535.53333"
+     inkscape:cx="535.53331"
+     inkscape:zoom="0.87272071"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     id="namedview2013" />
   <defs
      id="defs2005">
     <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
+       id="WMFhbasepattern"
        patternUnits="userSpaceOnUse"
-       id="WMFhbasepattern" />
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
   </defs>
   <path
-     id="path2007"
-     d="  M 721,967.4   L 902.33333,972.73333   L 999.4,854.33333   L 988.73333,730.6   L 1089,652.73333   L 1017.5333,401   L 867.13333,316.73333   L 865,120.46667   L 646.33333,22.333333   L 382.86667,126.86667   L 251.66667,98.066667   L 63.933333,323.13333   L 157.8,510.86667   L 22.333333,693.26667   L 141.8,920.46667   L 326.33333,926.86667   L 443.66667,1058.0667   L 651.66667,1089  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 700.79996,947.19998 181.33333,5.33333 97.06667,-118.4 L 968.53329,710.39998 1068.8,632.53331 997.33326,380.79998 846.93329,296.53331 844.79996,100.26665 626.13329,2.1333152 362.66663,106.66665 231.46663,77.866649 43.733296,302.93331 l 93.866664,187.73334 -135.4666645,182.4 119.4666645,227.2 184.53333,6.4 117.33334,131.20005 208,30.9333 z"
+     id="path2007" />
   <path
-     id="path2009"
-     d="  M 662.33333,555.66667   L 647.4,502.33333   L 609,462.86667   L 555.66667,449   L 502.33333,462.86667   L 462.86667,502.33333   L 449,555.66667   L 462.86667,609   L 502.33333,647.4   L 555.66667,662.33333   L 609,647.4   L 647.4,609  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 642.13329,535.46665 -14.93333,-53.33334 -38.4,-39.46666 -53.33333,-13.86667 -53.33334,13.86667 -39.46666,39.46666 -13.86667,53.33334 13.86667,53.33333 39.46666,38.4 53.33334,14.93333 53.33333,-14.93333 38.4,-38.4 z"
+     id="path2009" />
 </svg>

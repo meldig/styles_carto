@@ -7,11 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="HD5.wmf"
+   sodipodi:docname="HD5.svg"
    id="svg283"
-   height="264.72444mm"
-   width="290.40666mm"
-   version="1.0">
+   height="279.68222mm"
+   width="279.68222mm"
+   version="1.0"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata287">
     <rdf:RDF>
@@ -20,13 +21,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
      id="namedview285"
-     inkscape:window-height="480"
-     inkscape:window-width="640"
+     inkscape:window-height="1137"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -35,7 +37,19 @@
      borderopacity="1"
      inkscape:document-rotation="0"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.78374771"
+     inkscape:cx="528.59996"
+     inkscape:cy="495.50897"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg283" />
   <defs
      id="defs277">
     <pattern
@@ -47,11 +61,7 @@
        id="WMFhbasepattern" />
   </defs>
   <path
-     id="path279"
-     d="  M 22.333333,498.06667   L 1075.1333,500.2  "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
-  <path
      id="path281"
-     d="  M 440.46667,978.06667   L 440.46667,22.333333   L 759.4,500.2  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     d="M 422.81851,1010.1789 V 54.445596 L 741.75184,532.31226 Z"
+     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

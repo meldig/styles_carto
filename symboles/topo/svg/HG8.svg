@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="1020"
+   width="1020"
+   sodipodi:docname="HG8.svg"
+   id="svg12"
+   version="1.1">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg12"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="585"
+     inkscape:cx="660"
+     inkscape:zoom="0.77435633"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview14"
+     inkscape:window-height="1137"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="matrix(1,0,0,-1,10,1010)"
+     id="HG8">
+    <g
+       id="dim">
+      <path
+         id="path2"
+         fill="none"
+         stroke-opacity="0"
+         stroke-width="0"
+         stroke="#000000"
+         d="M 0,0 H 1000" />
+    </g>
+    <g
+       id="G104">
+      <path
+         id="path5"
+         fill="none"
+         stroke-width="20"
+         stroke="#000000"
+         d="m 0,300 v 400 l 300,300 H 700 L 1000,700 V 300 L 700,0 H 300 Z" />
+    </g>
+    <g
+       id="L350">
+      <path
+         id="path8"
+         fill="none"
+         stroke-width="20"
+         stroke="#000000"
+         d="M 401,385 400,615 600,500 Z" />
+    </g>
+  </g>
+</svg>

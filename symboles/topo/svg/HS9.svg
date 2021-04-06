@@ -7,11 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="HS9.wmf"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.0"
+   width="283.3511mm"
+   height="283.3511mm"
    id="svg1313"
-   height="294.07556mm"
-   width="294.07556mm"
-   version="1.0">
+   sodipodi:docname="HS9.svg">
   <metadata
      id="metadata1317">
     <rdf:RDF>
@@ -20,42 +21,58 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     id="namedview1315"
-     inkscape:window-height="480"
-     inkscape:window-width="640"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     inkscape:document-rotation="0"
+     inkscape:current-layer="svg1313"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="535.53335"
+     inkscape:cx="535.53335"
+     inkscape:zoom="0.87272071"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     id="namedview1315" />
   <defs
      id="defs1305">
     <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
+       id="WMFhbasepattern"
        patternUnits="userSpaceOnUse"
-       id="WMFhbasepattern" />
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
   </defs>
   <path
-     id="path1307"
-     d="  M 1089,1089   L 1089,22.333333   L 22.333333,22.333333   L 22.333333,1089  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1068.8,1068.8 V 2.1333334 H 2.1333334 V 1068.8 Z"
+     id="path1307" />
   <path
-     id="path1309"
-     d="  M 767.93333,446.86667   L 763.66667,403.13333   L 748.73333,360.46667   L 726.33333,322.06667   L 696.46667,289   L 660.2,263.4   L 618.6,245.26667   L 574.86667,236.73333   L 530.06667,236.73333   L 486.33333,246.33333   L 445.8,265.53333   L 409.53333,292.2   L 380.73333,325.26667   L 358.33333,364.73333   L 344.46667,407.4   L 340.2,452.2   L 345.53333,495.93333   L 360.46667,538.6   L 382.86667,577   L 412.73333,610.06667   L 449,635.66667   L 490.6,653.8   L 534.33333,662.33333   L 579.13333,662.33333   L 622.86667,652.73333   L 663.4,633.53333   L 699.66667,606.86667   L 728.46667,573.8   L 750.86667,534.33333   L 764.73333,491.66667  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
-  <path
-     id="path1311"
-     d="  M 553.53333,449   L 872.46667,770.06667   L 230.33333,770.06667  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 533.33333,428.8 852.26667,749.86667 H 210.13333 Z"
+     id="path1311" />
+  <ellipse
+     ry="213.69952"
+     rx="216.56413"
+     cy="422.66791"
+     cx="530.94995"
+     id="path833"
+     style="fill:none;stroke:#000000;stroke-width:3.389" />
 </svg>

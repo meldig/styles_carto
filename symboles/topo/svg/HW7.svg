@@ -7,11 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="HW7.wmf"
+   sodipodi:docname="HW7.svg"
    id="svg2350"
-   height="116.55778mm"
-   width="117.12222mm"
-   version="1.0">
+   height="105.40282mm"
+   width="105.40282mm"
+   version="1.0"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata2354">
     <rdf:RDF>
@@ -20,13 +21,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
      id="namedview2352"
-     inkscape:window-height="480"
-     inkscape:window-width="640"
+     inkscape:window-height="1137"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -35,7 +37,19 @@
      borderopacity="1"
      inkscape:document-rotation="0"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.6607987"
+     inkscape:cx="199.43209"
+     inkscape:cy="142.69718"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2350" />
   <defs
      id="defs2342">
     <pattern
@@ -47,15 +61,17 @@
        id="WMFhbasepattern" />
   </defs>
   <path
-     id="path2344"
-     d="  M 22.333333,219.66667   L 26.6,179.13333   L 39.4,139.66667   L 59.666667,103.4   L 87.4,72.466667   L 121.53333,47.933333   L 158.86667,30.866667   L 200.46667,22.333333   L 241,22.333333   L 282.6,30.866667   L 319.93333,47.933333   L 354.06667,72.466667   L 381.8,103.4   L 402.06667,139.66667   L 414.86667,179.13333   L 420.2,219.66667   L 414.86667,261.26667   L 402.06667,300.73333   L 381.8,337   L 354.06667,367.93333   L 319.93333,392.46667   L 282.6,409.53333   L 241,418.06667   L 200.46667,418.06667   L 158.86667,409.53333   L 121.53333,392.46667   L 87.4,367.93333   L 59.666667,337   L 39.4,300.73333   L 26.6,261.26667  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
-  <path
      id="path2346"
-     d="  M 139.66667,219.66667   L 238.86667,218.6  "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     d="m 117.76542,196.59616 99.2,-1.06667"
+     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      id="path2348"
-     d="  M 312.46667,114.06667   L 137.53333,113   L 138.6,327.4  "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+     d="m 290.56542,90.996157 -174.93334,-1.06667 1.06667,214.400003"
+     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.892;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path833"
+     cx="199.18643"
+     cy="199.18643"
+     r="198.19043" />
 </svg>

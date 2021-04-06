@@ -7,51 +7,96 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="HVA.wmf"
-   id="svg1923"
-   height="292.66444mm"
-   width="293.79334mm"
-   version="1.0">
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="617.323"
+   width="598.74109"
+   sodipodi:docname="HVA.svg"
+   id="svg20"
+   version="1.1">
   <metadata
-     id="metadata1927">
+     id="metadata26">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <defs
+     id="defs24" />
   <sodipodi:namedview
-     id="namedview1925"
-     inkscape:window-height="480"
-     inkscape:window-width="640"
+     inkscape:current-layer="svg20"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="399.75062"
+     inkscape:cx="385.80085"
+     inkscape:zoom="1.0225"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview22"
+     inkscape:window-height="1137"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
      gridtolerance="10"
      objecttolerance="10"
      borderopacity="1"
-     inkscape:document-rotation="0"
      bordercolor="#666666"
      pagecolor="#ffffff" />
-  <defs
-     id="defs1917">
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="WMFhbasepattern" />
-  </defs>
-  <path
-     id="path1919"
-     d="  M 22.333333,557.8   L 31.933333,446.86667   L 65,340.2   L 120.46667,243.13333   L 194.06667,159.93333   L 283.66667,93.8   L 385,47.933333   L 494.86667,23.4   L 605.8,22.333333   L 715.66667,44.733333   L 817,89.533333   L 907.66667,154.6   L 983.4,236.73333   L 1039.9333,332.73333   L 1075.1333,438.33333   L 1087.9333,549.26667   L 1077.2667,660.2   L 1043.1333,766.86667   L 988.73333,863.93333   L 914.06667,947.13333   L 824.46667,1013.2667   L 723.13333,1059.1333   L 614.33333,1083.6667   L 502.33333,1083.6667   L 393.53333,1062.3333   L 291.13333,1017.5333   L 200.46667,952.46667   L 124.73333,870.33333   L 68.2,774.33333   L 33,668.73333  z "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
-  <path
-     id="path1921"
-     d="  M 377.53333,829.8   L 379.66667,289   L 734.86667,313.53333   L 734.86667,490.6   L 386.06667,551.4  "
-     style="fill:none;stroke:#000000;stroke-width:4.2666669px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <g
+     transform="translate(-2.585461,-4.497439)"
+     id="HVA">
+    <g
+       id="GGG">
+      <path
+         id="path2"
+         fill-rule="evenodd"
+         fill-opacity="1"
+         fill="#010101"
+         stroke-width="1"
+         stroke="#000000"
+         d="m 445,341 -219,-5 -4,12 q -3.0909,4.81819 -7,9 -5.77821,5.26614 -12,10 -6.23999,4.87557 -13,9 -6.11847,4.20855 -13,7 -6.78503,2.75239 -14,4 l -14,5 299,7 q 5.89084,-0.0669 11,-3 3.44354,-1.96775 6,-5 2.71686,-3.09037 4,-7 1.27319,-2.87114 1,-6 -0.34871,-3.99341 -3,-7 z" />
+    </g>
+    <g
+       id="g7">
+      <path
+         id="path5"
+         fill-rule="evenodd"
+         fill-opacity="1"
+         fill="#010101"
+         stroke-width="1"
+         stroke="#000000"
+         d="m 227,322 328,8 -498,-117 114,49 q 8.97639,4.19014 17,10 11.43607,7.98834 20,19 5.07549,7.95282 10,16 z" />
+    </g>
+    <g
+       id="g11">
+      <path
+         id="path9"
+         fill-rule="evenodd"
+         fill-opacity="1"
+         fill="#010101"
+         stroke-width="1"
+         stroke="#000000"
+         d="m 108,212 293,69 -37,-50 q -3.01962,-3.98038 -7,-7 -5.43752,-4.12496 -12,-6 z" />
+    </g>
+    <g
+       id="I679" />
+    <g
+       id="I678" />
+  </g>
+  <ellipse
+     ry="301.71149"
+     rx="292.42053"
+     cy="308.6615"
+     cx="299.37054"
+     id="path851"
+     style="fill:none;stroke:#000000;stroke-width:13.9;stroke-miterlimit:4;stroke-dasharray:none" />
 </svg>
