@@ -10,7 +10,7 @@
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    height="1020"
    width="1019"
-   sodipodi:docname="HN4.svg"
+   sodipodi:docname="HN4_sans_contour.svg"
    id="svg31"
    version="1.1">
   <metadata
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -32,7 +32,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="-11"
      inkscape:window-x="-11"
-     inkscape:cy="515"
+     inkscape:cy="521.4264"
      inkscape:cx="659"
      inkscape:zoom="0.72301668"
      fit-margin-bottom="0"
@@ -53,12 +53,12 @@
      pagecolor="#ffffff"
      inkscape:document-rotation="0" />
   <g
-     transform="translate(10,10)"
+     transform="translate(11.383089,15.532376)"
      id="HN4"
-     style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none">
+     style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
     <g
        id="dim"
-       style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none">
+       style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
          id="path2"
          fill="none"
@@ -66,22 +66,22 @@
          stroke-width="1"
          stroke="#000000"
          d="M 0,0 H 999"
-         style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none" />
+         style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="A104"
-       style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none">
+       style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
          id="path5"
          fill="none"
          stroke-width="20"
          stroke="#000000"
          d="M 0,0 V 1000 H 999 V 0 Z"
-         style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none" />
+         style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="L350"
-       style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none">
+       style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
          id="path8"
          fill-rule="evenodd"
@@ -90,11 +90,11 @@
          stroke-width="2"
          stroke="#000000"
          d="m 397,888 h 223 q 9.69566,3.21737 19,-1 8.94529,-4.05472 13,-13 l 112,-146 38,33 -63,-157 -156,-34 37,33 z"
-         style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none" />
+         style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="g13"
-       style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none">
+       style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
          id="path11"
          fill-rule="evenodd"
@@ -103,11 +103,11 @@
          stroke-width="2"
          stroke="#000000"
          d="m 956,319 -75,-98 -61,-78 q -3.40881,-10.17904 -13,-15 -8.62919,-4.33731 -18,-2 H 605 l 3,-50 -86,145 68,145 4,-50 z"
-         style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none" />
+         style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="DDD"
-       style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none">
+       style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
          id="path15"
          fill-rule="evenodd"
@@ -116,11 +116,11 @@
          stroke-width="2"
          stroke="#000000"
          d="m 478,316 1,-190 H 180 q -25.30228,9.2682 -36,34 -11.88499,27.47724 2,54 l 67,102 z"
-         style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none" />
+         style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="g20"
-       style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none">
+       style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
          id="path18"
          fill-rule="evenodd"
@@ -129,11 +129,11 @@
          stroke-width="2"
          stroke="#000000"
          d="M 121,213 10,360 q -5.8295428,8.07513 -5,18 0.8350303,9.9894 8,17 l 102,153 -43,25 169,-9 83,-137 -44,24 z"
-         style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none" />
+         style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="g24"
-       style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none">
+       style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
          id="path22"
          fill-rule="evenodd"
@@ -142,11 +142,11 @@
          stroke-width="2"
          stroke="#000000"
          d="m 325,539 -77,54 -78,55 148,215 q 22.35625,15.50445 49,10 28.95511,-5.98222 43,-32 l 64,-88 z"
-         style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none" />
+         style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="g28"
-       style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none">
+       style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
          id="path26"
          fill-rule="evenodd"
@@ -155,7 +155,7 @@
          stroke-width="2"
          stroke="#000000"
          d="m 680,512 76,57 76,57 159,-206 q 7.79943,-25.55098 -5,-49 -14.42159,-26.42034 -44,-32 l -125,-2 z"
-         style="stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke:none" />
+         style="stroke:#ffffff;stroke-width:0.9;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>

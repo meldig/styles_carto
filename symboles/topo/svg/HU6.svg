@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    version="1.0"
    width="228.31778mm"
    height="228.31778mm"
@@ -21,18 +21,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
      inkscape:current-layer="svg1681"
      inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:cy="486.58893"
+     inkscape:window-y="178"
+     inkscape:window-x="2869"
+     inkscape:cy="239.58522"
      inkscape:cx="431.53333"
-     inkscape:zoom="0.93216569"
+     inkscape:zoom="0.70910507"
      fit-margin-bottom="0"
      fit-margin-right="0"
      fit-margin-left="0"
@@ -48,7 +48,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1137"
+     inkscape:window-height="986"
      id="namedview1683" />
   <defs
      id="defs1673">
@@ -61,11 +61,11 @@
        y="0" />
   </defs>
   <path
-     style="fill:none;stroke:#000000;stroke-width:4.20089px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#000000;stroke-width:18.5835228;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 2.100445,858.69956 209.56838,671.99585"
      id="path1677" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#000000;stroke-width:18.87451935;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 860.8,2.1333334 666.66667,212.26667"
      id="path1679" />
   <circle
@@ -73,5 +73,5 @@
      cy="441.15256"
      cx="436.5065"
      id="path833"
-     style="fill:none;stroke:#000000;stroke-width:3.389" />
+     style="fill:none;stroke:#000000;stroke-width:14.99196053;stroke-miterlimit:4;stroke-dasharray:none" />
 </svg>

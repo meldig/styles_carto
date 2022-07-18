@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    height="1520"
    width="1520"
    sodipodi:docname="HSB.svg"
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -30,10 +30,10 @@
   <sodipodi:namedview
      inkscape:current-layer="svg13"
      inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
      inkscape:cy="592.66811"
-     inkscape:cx="660"
+     inkscape:cx="599.20503"
      inkscape:zoom="0.47701312"
      fit-margin-bottom="0"
      fit-margin-right="0"
@@ -41,7 +41,7 @@
      fit-margin-top="0"
      showgrid="false"
      id="namedview15"
-     inkscape:window-height="1137"
+     inkscape:window-height="986"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -50,22 +50,27 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <g
      transform="matrix(1,0,0,-1,10,1250.3661)"
-     id="HSB">
+     id="HSB"
+     style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-opacity:1">
     <g
-       id="dim">
+       id="dim"
+       style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-opacity:1">
       <path
          id="path2"
          fill="none"
          stroke-opacity="0"
          stroke-width="0"
          stroke="#000000"
-         d="M 0,0 H 1500" />
+         d="M 0,0 H 1500"
+         style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-opacity:1" />
     </g>
     <g
-       id="L650">
+       id="L650"
+       style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-opacity:1">
       <path
          id="path5"
          fill-rule="evenodd"
@@ -73,10 +78,12 @@
          fill="#010101"
          stroke-width="20"
          stroke="#000000"
-         d="M 0,1000 H 1000 V 0 H 0 Z" />
+         d="M 0,1000 H 1000 V 0 H 0 Z"
+         style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-opacity:1" />
     </g>
     <g
-       id="g10">
+       id="g10"
+       style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-opacity:1">
       <path
          id="path8"
          fill-rule="evenodd"
@@ -84,7 +91,8 @@
          fill="#010101"
          stroke-width="20"
          stroke="#000000"
-         d="m 1012,707 488,293 V 0 l -488,292 z" />
+         d="m 1012,707 488,293 V 0 l -488,292 z"
+         style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-opacity:1" />
     </g>
   </g>
 </svg>

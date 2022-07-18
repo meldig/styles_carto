@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    version="1.0"
    width="283.3511mm"
    height="283.3511mm"
@@ -21,18 +21,18 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
      inkscape:current-layer="svg2011"
      inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
+     inkscape:window-y="178"
+     inkscape:window-x="2869"
      inkscape:cy="535.53333"
      inkscape:cx="535.53331"
-     inkscape:zoom="0.87272071"
+     inkscape:zoom="0.66245342"
      fit-margin-bottom="0"
      fit-margin-right="0"
      fit-margin-left="0"
@@ -48,7 +48,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1137"
+     inkscape:window-height="986"
      id="namedview2013" />
   <defs
      id="defs2005">
@@ -61,11 +61,11 @@
        y="0" />
   </defs>
   <path
-     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 700.79996,947.19998 181.33333,5.33333 97.06667,-118.4 L 968.53329,710.39998 1068.8,632.53331 997.33326,380.79998 846.93329,296.53331 844.79996,100.26665 626.13329,2.1333152 362.66663,106.66665 231.46663,77.866649 43.733296,302.93331 l 93.866664,187.73334 -135.4666645,182.4 119.4666645,227.2 184.53333,6.4 117.33334,131.20005 208,30.9333 z"
+     style="fill:none;stroke:#000000;stroke-width:39.7034;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 706.16075,908.6775 160.7229,4.62903 86.03403,-102.76435 -9.45429,-107.39336 88.87031,-67.58376 L 968.98994,417.07511 835.6845,343.93653 833.79365,173.58843 639.98073,88.414378 406.4598,179.14326 290.17206,154.14653 123.77657,349.49135 206.97431,512.43302 86.904844,670.74565 192.79288,867.94209 l 163.55919,5.55483 103.99718,113.87405 184.35863,26.84833 z"
      id="path2007" />
   <path
-     style="fill:none;stroke:#000000;stroke-width:4.26667px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 642.13329,535.46665 -14.93333,-53.33334 -38.4,-39.46666 -53.33333,-13.86667 -53.33334,13.86667 -39.46666,39.46666 -13.86667,53.33334 13.86667,53.33333 39.46666,38.4 53.33334,14.93333 53.33333,-14.93333 38.4,-38.4 z"
+     style="fill:none;stroke:#000000;stroke-width:39.7034;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 654.16216,551.31682 -13.236,-46.29025 -34.03544,-34.25477 -47.27144,-12.03547 -47.27145,12.03547 -34.98086,34.25477 -12.29058,46.29025 12.29058,46.29025 34.98086,33.32897 47.27145,12.96127 47.27144,-12.96127 34.03544,-33.32897 z"
      id="path2009" />
 </svg>

@@ -1,102 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   height="617.323"
-   width="598.74109"
-   sodipodi:docname="HVA.svg"
-   id="svg20"
-   version="1.1">
-  <metadata
-     id="metadata26">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs24" />
-  <sodipodi:namedview
-     inkscape:current-layer="svg20"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:cy="399.75062"
-     inkscape:cx="385.80085"
-     inkscape:zoom="1.0225"
-     fit-margin-bottom="0"
-     fit-margin-right="0"
-     fit-margin-left="0"
-     fit-margin-top="0"
-     showgrid="false"
-     id="namedview22"
-     inkscape:window-height="1137"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
-     pagecolor="#ffffff" />
-  <g
-     transform="translate(-2.585461,-4.497439)"
-     id="HVA">
-    <g
-       id="GGG">
-      <path
-         id="path2"
-         fill-rule="evenodd"
-         fill-opacity="1"
-         fill="#010101"
-         stroke-width="1"
-         stroke="#000000"
-         d="m 445,341 -219,-5 -4,12 q -3.0909,4.81819 -7,9 -5.77821,5.26614 -12,10 -6.23999,4.87557 -13,9 -6.11847,4.20855 -13,7 -6.78503,2.75239 -14,4 l -14,5 299,7 q 5.89084,-0.0669 11,-3 3.44354,-1.96775 6,-5 2.71686,-3.09037 4,-7 1.27319,-2.87114 1,-6 -0.34871,-3.99341 -3,-7 z" />
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 503 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,-0.352986,-1.44101)">
+        <g transform="matrix(0.921245,0,0,0.798354,-31.3223,-157.276)">
+            <g id="HVA" transform="matrix(1.08549,0,0,1.25258,-25.2518,-64.1592)">
+                <g id="GGG">
+                    <path id="path2" d="M445,341L226,336L222,348C219.939,351.212 217.606,354.212 215,357C211.148,360.511 207.148,363.844 203,367C198.84,370.25 194.507,373.25 190,376C185.921,378.806 181.588,381.139 177,383C172.477,384.835 167.81,386.168 163,387L149,392L448,399C451.927,398.955 455.594,397.955 459,396C461.296,394.688 463.296,393.022 465,391C466.811,388.94 468.145,386.606 469,384C469.849,382.086 470.182,380.086 470,378C469.768,375.338 468.768,373.004 467,371L445,341Z" style="fill:rgb(1,1,1);stroke:black;stroke-width:1px;"/>
+                </g>
+                <g id="g7">
+                    <path id="path5" d="M227,322L555,330L57,213L171,262C176.984,264.793 182.651,268.127 188,272C195.624,277.326 202.291,283.659 208,291C211.384,296.302 214.717,301.635 218,307L227,322Z" style="fill:rgb(1,1,1);stroke:black;stroke-width:1px;"/>
+                </g>
+                <g id="g11">
+                    <path id="path9" d="M108,212L401,281L364,231C361.987,228.346 359.654,226.013 357,224C353.375,221.25 349.375,219.25 345,218L108,212Z" style="fill:rgb(1,1,1);stroke:black;stroke-width:1px;"/>
+                </g>
+            </g>
+        </g>
     </g>
-    <g
-       id="g7">
-      <path
-         id="path5"
-         fill-rule="evenodd"
-         fill-opacity="1"
-         fill="#010101"
-         stroke-width="1"
-         stroke="#000000"
-         d="m 227,322 328,8 -498,-117 114,49 q 8.97639,4.19014 17,10 11.43607,7.98834 20,19 5.07549,7.95282 10,16 z" />
-    </g>
-    <g
-       id="g11">
-      <path
-         id="path9"
-         fill-rule="evenodd"
-         fill-opacity="1"
-         fill="#010101"
-         stroke-width="1"
-         stroke="#000000"
-         d="m 108,212 293,69 -37,-50 q -3.01962,-3.98038 -7,-7 -5.43752,-4.12496 -12,-6 z" />
-    </g>
-    <g
-       id="I679" />
-    <g
-       id="I678" />
-  </g>
-  <ellipse
-     ry="301.71149"
-     rx="292.42053"
-     cy="308.6615"
-     cx="299.37054"
-     id="path851"
-     style="fill:none;stroke:#000000;stroke-width:13.9;stroke-miterlimit:4;stroke-dasharray:none" />
 </svg>

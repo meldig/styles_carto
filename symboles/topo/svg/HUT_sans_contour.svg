@@ -11,28 +11,28 @@
    version="1.0"
    width="283.3511mm"
    height="283.3511mm"
-   id="svg1824"
-   sodipodi:docname="HV2.svg">
+   id="svg1770"
+   sodipodi:docname="HUT_sans_contour.svg">
   <metadata
-     id="metadata1828">
+     id="metadata1774">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="svg1824"
+     inkscape:current-layer="svg1770"
      inkscape:window-maximized="1"
      inkscape:window-y="-11"
      inkscape:window-x="-11"
-     inkscape:cy="535.53335"
-     inkscape:cx="482.60626"
-     inkscape:zoom="0.66245342"
+     inkscape:cy="267.08672"
+     inkscape:cx="301.20867"
+     inkscape:zoom="0.87272071"
      fit-margin-bottom="0"
      fit-margin-right="0"
      fit-margin-left="0"
@@ -49,9 +49,9 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="986"
-     id="namedview1826" />
+     id="namedview1772" />
   <defs
-     id="defs1818">
+     id="defs1760">
     <pattern
        id="WMFhbasepattern"
        patternUnits="userSpaceOnUse"
@@ -61,17 +61,15 @@
        y="0" />
   </defs>
   <path
-     transform="matrix(-0.95507757,0.29635594,-0.46557658,-0.8850076,0,0)"
-     d="m 196.84987,-731.89221 a 386.92615,297.77072 0 0 1 -294.66564,289.18184 386.92615,297.77072 0 0 1 -435.18859,-151.27406 386.92615,297.77072 0 0 1 87.12877,-361.32285"
-     sodipodi:arc-type="arc"
-     sodipodi:open="true"
-     sodipodi:end="3.9900967"
-     sodipodi:start="0"
-     sodipodi:ry="297.77072"
-     sodipodi:rx="386.92615"
-     sodipodi:cy="-731.89221"
-     sodipodi:cx="-190.07628"
-     sodipodi:type="arc"
-     id="path838"
-     style="fill:none;stroke:#000000;stroke-width:79.45011432;stroke-miterlimit:4;stroke-dasharray:none" />
+     style="fill:none;stroke:#000000;stroke-width:35.87299881;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 873.45226,79.041362 h -685.104 L 375.19467,840.82657 h 77.85242 V 1023.6554 H 608.753 V 840.82657 h 77.85289 z"
+     id="path1764" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:35.87299881;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 717.58644,383.75707 764.29866,185.69275 H 297.18193 l 46.71183,198.06432 z"
+     id="path1766" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:35.87299881;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 686.86968,840.82657 873.87512,79.044071 H 188.18941 L 375.19467,840.82657"
+     id="path1768" />
 </svg>
