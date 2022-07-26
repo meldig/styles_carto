@@ -1,75 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   version="1.0"
-   width="283.3511mm"
-   height="283.3511mm"
-   id="svg1787"
-   sodipodi:docname="HUV.svg">
-  <metadata
-     id="metadata1791">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     inkscape:current-layer="svg1787"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-11"
-     inkscape:window-x="2869"
-     inkscape:cy="535.53335"
-     inkscape:cx="267.97925"
-     inkscape:zoom="0.87272071"
-     fit-margin-bottom="0"
-     fit-margin-right="0"
-     fit-margin-left="0"
-     fit-margin-top="0"
-     showgrid="false"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     inkscape:document-rotation="0"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="2880"
-     inkscape:window-height="1526"
-     id="namedview1789" />
-  <defs
-     id="defs1777">
-    <pattern
-       id="WMFhbasepattern"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-  </defs>
-  <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:32.6895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 824.78409,181.50578 254.35723,235.89809 529.11026,652.90945 Z"
-     id="path1781" />
-  <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:32.6895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 946.12117,477.17867 941.93779,413.02325 926.59605,348.86761 901.49162,287.5011 597.45003,746.35309 H 457.98158 L 155.33451,287.5011 l -25.10431,61.36651 -15.34164,64.15564 -4.18425,64.15542"
-     id="path1783" />
-  <path
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:32.6895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 109.31045,477.17867 5.57811,65.55036 15.34164,64.15562 25.10431,61.36644 34.8671,55.78734 41.84008,50.2084 50.20938,41.84073 55.78741,34.8671 61.36611,25.10448 64.15555,15.34157 64.15567,4.1835 65.55036,-4.1835 64.15543,-15.34157 61.36582,-25.10448 55.78782,-34.8671 50.20885,-41.84073 41.84043,-50.2084 34.8671,-55.78734 25.10443,-61.36644 15.34174,-64.15562 4.18338,-65.55036"
-     id="path1785" />
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 901 775" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g id="Plan-de-travail1" serif:id="Plan de travail1" transform="matrix(0.863027,0,0,0.949755,-30.2059,-90.2267)">
+        <rect x="35" y="95" width="1044" height="816" style="fill:none;"/>
+        <g id="path1781" transform="matrix(1.15871,0,0,1.0529,-53.0622,-59.7768)">
+            <path d="M824.784,181.506L254.357,235.898L529.11,652.909L824.784,181.506Z" style="fill:none;fill-rule:nonzero;stroke:param(outline) black;stroke-width:param(outline-width) 32.69px;"/>
+        </g>
+        <g id="path1783" transform="matrix(1.15871,0,0,1.0529,-53.0622,-59.7768)">
+            <path d="M946.121,477.179L941.938,413.023L926.596,348.868L901.492,287.501L597.45,746.353L457.982,746.353L155.335,287.501L130.23,348.868L114.889,413.023L110.704,477.179" style="fill:none;fill-rule:nonzero;stroke:param(outline) black;stroke-width:param(outline-width) 32.69px;"/>
+        </g>
+        <g id="path1785" transform="matrix(1.15871,0,0,1.0529,-53.0622,-59.7768)">
+            <path d="M109.31,477.179L114.889,542.729L130.23,606.885L155.335,668.251L190.202,724.038L232.042,774.247L282.251,816.088L338.038,850.955L399.405,876.059L463.56,891.401L527.716,895.584L593.266,891.401L657.422,876.059L718.787,850.955L774.575,816.088L824.784,774.247L866.625,724.038L901.492,668.251L926.596,606.885L941.938,542.729L946.121,477.179" style="fill:none;fill-rule:nonzero;stroke:param(outline) black;stroke-width:param(outline-width) 32.69px;"/>
+        </g>
+    </g>
 </svg>
