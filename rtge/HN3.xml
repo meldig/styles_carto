@@ -1,0 +1,65 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol type="marker" force_rhr="0" alpha="1" name="HN3" clip_to_extent="1" tags="garage vlille">
+      <layer pass="0" enabled="1" locked="0" class="SimpleMarker">
+        <prop k="angle" v="0"/>
+        <prop k="color" v="255,0,0,0"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="name" v="square"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="35,35,35,255"/>
+        <prop k="outline_style" v="solid"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="scale_method" v="diameter"/>
+        <prop k="size" v="17.4"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="MapUnit"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer pass="0" enabled="1" locked="0" class="SvgMarker">
+        <prop k="angle" v="0"/>
+        <prop k="color" v="255,0,0,255"/>
+        <prop k="fixedAspectRatio" v="0"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="name" v="topo/svg/HUV.svg"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="MapUnit"/>
+        <prop k="outline_color" v="35,35,35,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MapUnit"/>
+        <prop k="scale_method" v="diameter"/>
+        <prop k="size" v="15.3529"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="MapUnit"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>
